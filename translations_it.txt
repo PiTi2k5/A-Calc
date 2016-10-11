@@ -1,0 +1,364 @@
+A-Calc www.a-calc.de Community translations
+* Make sure to add your translations between the two empty quotations marks
+* include all special characters e.g. {0} | {1} | {2}, spaces or \n
+
+
+en: "Level:";
+it: "";
+
+en: "Choose a Dino:";
+it: "";
+
+en: "Choose a Dino:";
+it: "";
+
+en: "useless points";
+it: "";
+
+en: "A Dino is given a stat point for each level \nat level 120 will have 119 stat points (Dino LvL - 1) \nEach of these points are assigned to a random stat, with a change of 1/7 (14.28%) upgrading each stat \nThe movement speed of a wild Dino will not be increased, so that stat point will be useless \nThe Torpor stat is increased static with every level \nWorks only for wild Dinos, knocked it out and check their stats for good Base Stats";
+it: "";
+
+en: "Total tame time: ";
+it: "";
+
+en: "Food rate Multi x";
+it: "";
+
+en: "Taming Multi x";
+it: "";
+
+en: "K.o. - Body hits projectile (5sec rotation)";
+it: "";
+
+en: "Weapon DMG";
+it: "";
+
+en: "% Melee DMG";
+it: "";
+
+en: "Dino awake";
+it: "";
+
+en: "Current Torpor";
+it: "";
+
+en: "Use";
+it: "";
+
+en: "Buffer: ";
+it: "";
+
+en: "For Max: ";
+it: "";
+
+en: "Narcotics:";
+it: "";
+
+en: "Target Food:";
+it: "";
+
+en: "Starved in:";
+it: "";
+
+en: "Current Food";
+it: "";
+
+en: "Max Food";
+it: "";
+
+en: "feed Dino!!!";
+it: "";
+
+en: "Berries instead Narcotic";
+it: "";
+
+en: "Favorite kibble";
+it: "";
+
+en: "Produces kibble";
+it: "";
+
+en: "add/remove food (touch the food icon)";
+it: "";
+
+en: "Saddle";
+it: "";
+
+en: "Platform Saddle";
+it: "";
+
+en: "Mejoberry";
+it: "";
+
+en: "Fiber";
+it: "";
+
+en: " Egg";
+it: "";
+
+en: "Longrass";
+it: "";
+
+en: "Rockarrot";
+it: "";
+
+en: "Citronal";
+it: "";
+
+en: "Savoroot";
+it: "";
+
+en: "Prime Meat Jerky";
+it: "";
+
+en: "Cooked Meat Jerky";
+it: "";
+
+en: "Cooked Meat";
+it: "";
+
+en: "Cooked Fish Meat";
+it: "";
+
+en: "Cooked Prime Fish Meat";
+it: "";
+
+en: "Cooked Prime";
+it: "";
+
+en: "Raw Prime Meat";
+it: "";
+
+en: "Spoiled Meat";
+it: "";
+
+en: "Waterskin";
+it: "";
+
+en: "none";
+it: "";
+
+en: "Hide";
+it: "";
+
+en: "Wood";
+it: "";
+
+en: "Metal Ingots";
+it: "";
+
+en: "for: ";
+it: "";
+
+en: "Silica Pearls";
+it: "";
+
+en: "Cementing Paste";
+it: "";
+
+en: "Stone";
+it: "";
+
+en: "Metal";
+it: "";
+
+en: "Flint";
+it: "";
+
+en: "Pelt";
+it: "";
+
+en: "Thatch";
+it: "";
+
+en: "Rare Flower";
+it: "";
+
+en: "Clay";
+it: "";
+
+en: " Kibble";
+it: "";
+
+en: "Rare Mushroom";
+it: "";
+
+en: "Angler Gel";
+it: "";
+
+en: "Large Animal Feces";
+it: "";
+
+en: "Broth of Enlightenment";
+it: "";
+
+en: "Obsidian";
+it: "";
+
+en: "Chitin";
+it: "";
+
+en: "Plant Species Y Seed";
+it: "";
+
+en: "Death Worm Spike";
+it: "";
+
+en: "baby";
+it: "";
+
+en: "juvenile";
+it: "";
+
+en: "adolescent";
+it: "";
+
+en: "Total Maturation: ";
+it: "";
+
+en: "Total Breeding Time: ";
+it: "";
+
+en: "Incubation Time: ";
+it: "";
+
+en: "Gestation Time: ";
+it: "";
+
+en: "Incubation temperature: ";
+it: "";
+
+en: "hatch Multi x";
+it: "";
+
+en: "mature Multi x";
+it: "";
+
+en: "Carryable by";
+it: "";
+
+en: "Open official Ark Wiki Page";
+it: "";
+
+en: "Open Carryable Overview";
+it: "";
+
+en: "Rate A-Calc Pro";
+it: "";
+
+en: "Recipes";
+it: "";
+
+en: "Please rate";
+it: "";
+
+en: "XP for Killing: ";
+it: "";
+
+en: "Gathers autonomously(wandering): ";
+it: "";
+
+en: "resources gathering Top3";
+it: "";
+
+en: "Favors Food: ";
+it: "";
+
+en: "Total food: ";
+it: "";
+
+en: "Food rate: ";
+it: "";
+
+en: "Effectiveness: ";
+it: "";
+
+en: "LvL after taming: ";
+it: "";
+
+en: "Max LvL: ";
+it: "";
+
+en: "Bonus LvL";
+it: "";
+
+en: "XP LvL";
+it: "";
+
+en: "Torpor Total: {0} / Rate: {1} \nTime to drain torpor: {2} \nTime to refill narcos (Buffer): {3} \nTime to refill berries (Buffer): {4}";
+it: "";
+
+en: "berries";
+it: "";
+
+en: "narcos";
+it: "";
+
+en: "Important: Immune to any sort of narcotic effects\nDuration: only 24 h real time (no permanent taming)\nonly 3 can exist at once";
+it: "";
+
+en: "KO Strategy: He has a weak spot on the head\nTitano makes a specific animation and sound when hit in the head and torpor is applied";
+it: "";
+
+en: "Weapons: Catapult Turret, Ballista Turret, Rocket Turret or Primitive Cannon\nPlayer number: 3-5";
+it: "";
+
+en: "after KO: Equip his saddle platform ---> tamed for 24 h";
+it: "";
+
+en: "Tamed Info: No XP gain, you can´t feed him (foodstat=tamed duration)\nequal stats for each lvl\nPrivat Server: Command Line ?AllowRaidDinoFeeding=true allow permanent taming";
+it: "";
+
+en: "Important: Adult Wyverns can not be tamed.\nIn order to get a tamed Wyvern, the player\nmust steal and hatch a Wyvern Egg.";
+it: "";
+
+en: "There are three Wyvern egg variants\nWyvern Egg Fire, Wyvern Egg Lightning and \nWyvern Egg Poison.";
+it: "";
+
+en: "feed the Wyvern baby all 2 hrs with Wyvern milk\nnarcotize and get the milk from female Wyvern or kill alphas\ngathering resources on the ground with default key [c]";
+it: "";
+
+en: "Egg stealing";
+it: "";
+
+en: "(wandering and put in his inv) \nFeces --> Fertilizer/Oil";
+it: "";
+
+en: "faster egg production (wandering)";
+it: "";
+
+en: "more XP for dinos (pet it)";
+it: "";
+
+en: "Berries";
+it: "";
+
+en: "Affinity Needed: {0} \nAffinity Supplied: {1}";
+it: "";
+
+en: "Alarm @";
+it: "";
+
+en: "min";  --(minutes)--
+it: "";
+
+en: "Set";
+it: "";
+
+en: "Start";
+it: "";
+
+en: "Stop";
+it: "";
+
+en: "Dino Stats";
+it: "";
+
+en: "Patch Notes A-Calc / PC / Xbox / SotF";
+it: "";
+
+en: "Ark Maps";
+it: "";
+
+en: "Engrams";
+it: "";
