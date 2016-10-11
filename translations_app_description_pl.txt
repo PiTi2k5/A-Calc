@@ -1,0 +1,31 @@
+﻿A-Calc www.a-calc.de Community translations
+
+The unofficial FAN Project App A-Guide for the game ARK: Survival Evolved is a taming calculator and companion app for the ingame dino tame prozess. 
+He calculated the required time and resources necessary for the dino taming. You can look at the effectiveness, the associated expected bonus level and extended stats for each food type. 
+Plan your next taming with exact values and more fun with A-Guide. Survive now in Ark: Survival Evolved World. Good Luck and have Fun for dinosaur taming.
+
+Pro Version (AdFree): https://play.google.com/store/apps/details?id=com.rssolution.acalcpro
+
+Taming calculator and companion app features:
+- newest Ark DevKit and Test Data
+- tame time for different types of food
+- food quantity
+- required narcotic & narcoberries
+- extra tame details, effectiveness bonus level, max level info
+- XP for Killing
+- resources gathering Top3 for each Dino
+- Dishes and Dyes recipes
+- Engrams
+- knock out tech
+- Narcotics & Starve taming timer with alarm
+- Kibble recipes Overview and Info (favorite/produces) directly by Dino selection
+- Saddle Info
+- Custom Arkmap (The Island, The Center, Scorched Earth)
+- Official Ark Wiki link for each Dino
+- Breeding times with multipliers (Phase 1 mechanics)
+- Wild Dino Stats (Calculator & Overview)
+- Carryable by Overview and directly by Dino selection
+- Patchnotes section
+- multiplier (taming / foodrate) for unofficial Ark: Survival Evolved Server - e.g. "0.5" / "2" / "5" / "0.25"
+- settings are saved automatically (multipliers, lvl, weapon dmg, melee dmg, language switch etc.)
+- custom calculator / recalc: add & remove foods via touch interaction or manually input
