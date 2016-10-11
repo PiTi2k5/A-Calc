@@ -4,7 +4,7 @@ The unofficial FAN Project App A-Guide for the game ARK: Survival Evolved is a t
 He calculated the required time and resources necessary for the dino taming. You can look at the effectiveness, the associated expected bonus level and extended stats for each food type. 
 Plan your next taming with exact values and more fun with A-Guide. Survive now in Ark: Survival Evolved World. Good Luck and have Fun for dinosaur taming.
 
-Pro Version (AdFree): https://play.google.com/store/apps/details?id=com.rssolution.acalcpro
+Pro Version (AdFree): XXX
 
 Taming calculator and companion app features:
 - newest Ark DevKit and Test Data
