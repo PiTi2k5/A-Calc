@@ -1,31 +1,31 @@
-﻿A-Calc www.a-calc.de Community translations
+﻿A-Calc www.a-calc.de Перевод сообщества
 
-The unofficial FAN Project App A-Guide for the game ARK: Survival Evolved is a taming calculator and companion app for the ingame dino tame prozess. 
-He calculated the required time and resources necessary for the dino taming. You can look at the effectiveness, the associated expected bonus level and extended stats for each food type. 
-Plan your next taming with exact values and more fun with A-Guide. Survive now in Ark: Survival Evolved World. Good Luck and have Fun for dinosaur taming.
+Неофициальный фанатский проект приложение App A-Guide для игры ARK: Survival Evolved это калькулятор приручения и приложение-помощник для внутриигрового  процесса приручения.
+Оно считает требуемое время и ресурсы для приручения динозавров. Вы можете посмотреть эффективность, ожидаемый бонусный уровень и расширенную статистику для каждого вида еды.
+Планируйте своё следующее приручение с точными цифрами и веселитесь с A-Guilde. Выживайте уже сейчас в мире Ark: Survival Evolved. Удачи и весёлого приручения динозавров.
 
-Pro Version (AdFree): XXX
+Про Версия (Без рекламы): XXX
 
-Taming calculator and companion app features:
-- newest Ark DevKit and Test Data
-- tame time for different types of food
-- food quantity
-- required narcotic & narcoberries
-- extra tame details, effectiveness bonus level, max level info
-- XP for Killing
-- resources gathering Top3 for each Dino
-- Dishes and Dyes recipes
-- Engrams
-- knock out tech
-- Narcotics & Starve taming timer with alarm
-- Kibble recipes Overview and Info (favorite/produces) directly by Dino selection
-- Saddle Info
-- Custom Arkmap (The Island, The Center, Scorched Earth)
-- Official Ark Wiki link for each Dino
-- Breeding times with multipliers (Phase 1 mechanics)
-- Wild Dino Stats (Calculator & Overview)
-- Carryable by Overview and directly by Dino selection
-- Patchnotes section
-- multiplier (taming / foodrate) for unofficial Ark: Survival Evolved Server - e.g. "0.5" / "2" / "5" / "0.25"
-- settings are saved automatically (multipliers, lvl, weapon dmg, melee dmg, language switch etc.)
-- custom calculator / recalc: add & remove foods via touch interaction or manually input
+Калькулятор приручения и сопутствующие функции приложения:
+- Актульнейнейшая информация, полученная с помощью Ark DevKit и тестов
+- Время приручения разными типами еды
+- Качество еды
+- Требуемый наркотик и наркобери
+- Дополнительные детали приручения, потенциальные бонусные уровни, информация о максимальном уровне
+- Опыт за убийство
+- Топ3 сбора ресурсов для каждого Дино
+- Рецепты блюд и красок
+- Энграммы
+- Технология оглушения
+- Таймер оглушения и сытоски с будильником
+- Таблица рецептов Кибблов и информация (употребляемые/производимые)
+- Информация о Сёдлах
+- Расширенные карты Ark (The Island (Остров), The Center (Центр), Scorched Earth (Выжженные земли))
+- Ссылка на официальную Википедию для каждого Динозавтра
+- Время размножения с множителями (Механика 1 фазы)
+- Характеристики Диких Динозавров (Калькулятор и Таблица)
+- Возможность переноса в таблице и прямо при выборе Динозавтров
+- Список изменений
+- Множители (Приручение / качество еды) для неоффициальных серверов Ark: Survival Evolved - т.е. "0.5" / "2" / "5" / "0.25"
+- Настройки сохраняются автоматически (Множители, уровень, урон оружия, урон ближнего боя, смена языка и прочее)
+- Настраиваемый калькулятор / перерасчёт: добавляйте и убирайте еду, нажимая простым касанием или ручным вводом
