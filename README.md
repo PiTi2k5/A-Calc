@@ -28,5 +28,6 @@ Don't forget to add your username or project website that you want to have added
 | en      | English      |   100 % |
 | es | Spanish      |    100 % |
 | fr | French      |    0 % |
+| it | Italian      |    0 % |
 | pl | Polish      |    0 % |
 | ru | Russian      |    100 % |
