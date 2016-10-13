@@ -26,7 +26,7 @@ Don't forget to add your username or project website that you want to have added
 | ------------- |:-------------:| -----:|
 | de      | German | 100 % |
 | en      | English      |   100 % |
-| es | Spanish      |    0 % |
+| es | Spanish      |    100 % |
 | fr | French      |    0 % |
 | pl | Polish      |    0 % |
 | ru | Russian      |    0 % |
