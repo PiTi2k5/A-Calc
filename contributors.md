@@ -8,3 +8,6 @@
 
 ## Spanish Translations
 1. Marcelo R. Anton (xSmil3) and Josue Martinez (Ezio93)
+
+## Russian Translations
+1. InVeRnyako
