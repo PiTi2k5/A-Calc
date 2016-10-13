@@ -29,4 +29,4 @@ Don't forget to add your username or project website that you want to have added
 | es | Spanish      |    100 % |
 | fr | French      |    0 % |
 | pl | Polish      |    0 % |
-| ru | Russian      |    0 % |
+| ru | Russian      |    100 % |
