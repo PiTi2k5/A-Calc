@@ -4,454 +4,459 @@ A-Calc www.a-calc.de Community translations
 
 
 en: "Level:";
-es: "";
+es: "Nivel";
 
 en: "Choose a Dino:";
-es: "";
+es: "Elegir el Dino";
 
 en: "Choose a Dino:";
-es: "";
+es: "Elegir el Dino";
 
 en: "useless points";
-es: "";
+es: "puntos inútiles";
 
 en: "A Dino is given a stat point for each level \nat level 120 will have 119 stat points (Dino LvL - 1) \nEach of these points are assigned to a random stat, with a change of 1/7 (14.28%) upgrading each stat \nThe movement speed of a wild Dino will not be increased, so that stat point will be useless \nThe Torpor stat is increased static with every level \nWorks only for wild Dinos, knocked it out and check their stats for good Base Stats";
-es: "";
+es: "A un Dino obtiene un punto de stat por cada nivel \nat en nivel 120 tendrá 119 puntos de estadísticas (Dino LvL - 1) \nCada de estos puntos se asignan a una estadística aleatoria, con un cambio de 1/7 (14,28%) actualizando cada stat \ nLa velocidad de movimiento de un Dino salvaje no aumentara, de manera que el punto de estadísticas será inútil su estadistica \ nEl Torpor estático se incrementa con cada nivel \ ntrabaja sólo para Dinos salvajes, lo dormis y comprobar sus estadísticas para los buenos Base Stats";
 
 en: "Total tame time: ";
-es: "";
+es: "Tiempo total de tameo";
 
 en: "Food rate Multi x";
-es: "";
+es: "Tarifa de Comida Multi x";
 
 en: "Taming Multi x";
-es: "";
+es: "Tameo Multi x";
 
 en: "K.o. - Body hits projectile (5sec rotation)";
-es: "";
+es: "Golpes para KO (Rotación de 5sec";
 
 en: "Weapon DMG";
-es: "";
+es: "Daño del Arma";
 
 en: "% Melee DMG";
-es: "";
+es: "% Daño Fisico";
 
 en: "Dino awake";
-es: "";
+es: "Se despierta en";
 
 en: "Current Torpor";
-es: "";
+es: "Torpor Actual";
 
 en: "Use";
-es: "";
+es: "Usar";
 
 en: "Buffer: ";
-es: "";
+es: "Buffer";
 
 en: "For Max: ";
-es: "";
+es: "Para el Max";
 
 en: "Narcotics:";
-es: "";
+es: "Narcóticos";
 
 en: "Target Food:";
-es: "";
+es: "Comida objectiva";
 
-en: "Starved in:";
-es: "";
+en: "Tendra hambre en:";
+es: "Will be hungry in";
 
 en: "Current Food";
-es: "";
+es: "Comida actual";
 
 en: "Max Food";
-es: "";
+es: "Comida maxima";
 
 en: "feed Dino!!!";
-es: "";
+es: "Dale de comer al dino!!!";
 
 en: "Berries instead Narcotic";
-es: "";
+es: "Bayas en lugar de Narcóticos";
 
 en: "Favorite kibble";
-es: "";
+es: "Kibble favorito";
 
 en: "Produces kibble";
-es: "";
+es: "Kibble que produce";
 
 en: "add/remove food (touch the food icon)";
-es: "";
+es: "Agregar/Quitar comida (Toca el icono)";
 
 en: "Saddle";
-es: "";
+es: "Montura";
 
 en: "Platform Saddle";
-es: "";
+es: "Montura con plataforma";
 
 en: "Mejoberry";
-es: "";
+es: "Mejoberry";
 
 en: "Fiber";
-es: "";
+es: "Fibra";
 
 en: " Egg";
-es: "";
+es: " Huevo";
 
 en: "Longrass";
-es: "";
+es: "Maiz";
 
 en: "Rockarrot";
-es: "";
+es: "Zanahoria";
 
 en: "Citronal";
-es: "";
+es: "Limon";
 
 en: "Savoroot";
-es: "";
+es: "Papa";
 
 en: "Prime Meat Jerky";
-es: "";
+es: "Carne seca de primera";
 
 en: "Cooked Meat Jerky";
-es: "";
+es: "Carne cocinada seca";
 
 en: "Cooked Meat";
-es: "";
+es: "Carne cocinada";
 
 en: "Cooked Fish Meat";
-es: "";
+es: "Carne de pescado cocinada";
 
 en: "Cooked Prime Fish Meat";
-es: "";
+es: "Carne seca de pescado cocinada";
 
 en: "Cooked Prime";
-es: "";
+es: "Carne cocinada de primera";
 
 en: "Raw Prime Meat";
-es: "";
+es: "Carne cruda de primera";
 
 en: "Spoiled Meat";
-es: "";
+es: "Carne podrida";
 
 en: "Waterskin";
-es: "";
+es: "Bota de agua";
 
 en: "none";
-es: "";
+es: "nada";
 
 en: "Hide";
-es: "";
+es: "Oculto";
 
 en: "Wood";
-es: "";
+es: "Madera";
 
 en: "Metal Ingots";
-es: "";
+es: "Lingotes de Metal";
 
 en: "for: ";
-es: "";
+es: "por: ";
 
 en: "Silica Pearls";
-es: "";
+es: "Perlas";
 
 en: "Cementing Paste";
-es: "";
+es: "Cemento";
 
 en: "Stone";
-es: "";
+es: "Piedra";
 
 en: "Metal";
-es: "";
+es: "Metal";
 
 en: "Flint";
-es: "";
+es: "Silex";
 
 en: "Pelt";
-es: "";
+es: "pelaje";
 
 en: "Thatch";
-es: "";
+es: "Paja";
 
 en: "Rare Flower";
-es: "";
+es: "Flor Rara";
 
 en: "Clay";
-es: "";
+es: "Arcilla";
 
 en: " Kibble";
-es: "";
+es: " Kibble/Pienso";
 
 en: "Rare Mushroom";
-es: "";
+es: "Hongo Raro";
 
 en: "Angler Gel";
-es: "";
+es: "Angler Gel";
 
 en: "Large Animal Feces";
-es: "";
+es: "Caca Grande de Animal";
 
 en: "Broth of Enlightenment";
-es: "";
+es: "Caldo de la Illuminacion";
 
 en: "Obsidian";
-es: "";
+es: "Obsidiana";
 
 en: "Chitin";
-es: "";
+es: "Quitina";
 
 en: "Plant Species Y Seed";
-es: "";
+es: "Semillas de Planta Especie Y";
 
-en: "Death Worm Spike";
-es: "";
+en: "DeathWorm Horn";
+es: "Cuerno de Gusano de la Muerte";
 
 en: "baby";
-es: "";
+es: "bebe";
 
 en: "juvenile";
-es: "";
+es: "juvenil";
 
 en: "adolescent";
-es: "";
+es: "adolecente";
 
 en: "Total Maturation: ";
-es: "";
+es: "Maduración total";
 
 en: "Total Breeding Time: ";
-es: "";
+es: "Tiempo total de crecimiento";
 
 en: "Incubation Time: ";
-es: "";
+es: "Tiempo de incubacion";
 
 en: "Gestation Time: ";
-es: "";
+es: "Tiempo de Gestacion";
 
 en: "Incubation temperature: ";
-es: "";
+es: "Temperatura de incubación";
 
 en: "hatch Multi x";
-es: "";
+es: "Eclosión Multi x";
 
 en: "mature Multi x";
-es: "";
+es: "Maduración Multi x";
 
 en: "Carryable by";
-es: "";
+es: "Transportable por";
 
 en: "Open official Ark Wiki Page";
-es: "";
+es: "Abrir página oficial Ark Wiki";
 
 en: "Open Carryable Overview";
-es: "";
+es: "Abrir todos los transportables";
 
 en: "Rate A-Calc Pro";
-es: "";
+es: "Puntua A-Calc Pro";
 
 en: "Recipes";
-es: "";
+es: "Recetas";
 
 en: "Please rate";
-es: "";
+es: "Por Favor Puntuanos";
 
 en: "XP for Killing: ";
-es: "";
+es: "Exp. por Matar: ";
 
 en: "Gathers autonomously(wandering): ";
-es: "";
+es: "Reúne de forma autonoma (Vigilancia)";
 
 en: "resources gathering Top3";
-es: "";
+es: "recursos obtenidos Top3";
 
 en: "Favors Food: ";
-es: "";
+es: "Comida favorita";
 
 en: "Total food: ";
-es: "";
+es: "Total de comida";
 
 en: "Food rate: ";
-es: "";
+es: "Puntos de Comida";
 
 en: "Effectiveness: ";
-es: "";
+es: "Efectividad";
 
 en: "LvL after taming: ";
-es: "";
+es: "Nivel despues de domado";
 
 en: "Max LvL: ";
-es: "";
+es: "Nivel Maximo";
 
 en: "Bonus LvL";
-es: "";
+es: "Bonificación de Nivel";
 
 en: "XP LvL";
-es: "";
+es: "Nivel de Exp.";
 
 en: "Torpor Total: {0} / Rate: {1} \nTime to drain torpor: {2} \nTime to refill narcos (Buffer): {3} \nTime to refill berries (Buffer): {4}";
-es: "";
+es: "Torpor Total: {0} / Puntos: {1} \nTiempo para terminar el torpor: {2} \nTiempo para aplicar narcoticos (Buffer): {3} \nTiempo para aplicar ballas (Buffer): {4}";
 
 en: "berries";
-es: "";
+es: "ballas";
 
 en: "narcos";
-es: "";
+es: "narcos";
 
 en: "Important: Immune to any sort of narcotic effects\nDuration: only 24 h real time (no permanent taming)\nonly 3 can exist at once";
-es: "";
+es: "Importante: Inmune a cualquier tipo de efectos narcoticos\nDuración: sólo 24 h en tiempo real (sin domesticación permanente)\n solo pueden existir 3 a la vez";
 
 en: "KO Strategy: He has a weak spot on the head\nTitano makes a specific animation and sound when hit in the head and torpor is applied";
-es: "";
+es: "Estrategia para KO: Su punto debil es la cabeza\nEl Titano realiza una animación y sonido específico cuando el proyectil golpea su cabeza y se le aplica el Torpor";
 
 en: "Weapons: Catapult Turret, Ballista Turret, Rocket Turret or Primitive Cannon\nPlayer number: 3-5";
-es: "";
+es: "Armas: Catapulta, Ballesta (Torreta), Torreta Lanzamiziles o Cañon primitivo\nNumero de Jugadores: 3-5";";
 
 en: "after KO: Equip his saddle platform ---> tamed for 24 h";
-es: "";
+es: "Luego de KO: Equipa la montura con plataforma ---> Domesticado durante 24 horas";
 
 en: "Tamed Info: No XP gain, you can´t feed him (foodstat=tamed duration)\nequal stats for each lvl\nPrivat Server: Command Line ?AllowRaidDinoFeeding=true allow permanent taming";
-es: "";
+es: "Info de Domesticado: No ganas experiencia, no puedes alimentarlo (foodstat=Duración de la doma)\nSus estadisticas no varian segun su nivel\nServer Privado: Linea de comando ?AllowRaidDinoFeeding=true para que su tameo sea permanente";
 
 en: "Important: Adult Wyverns can not be tamed.\nIn order to get a tamed Wyvern, the player\nmust steal and hatch a Wyvern Egg.";
-es: "";
+es: "Importante: Los Wyverns Adultos no pueden ser domados.\nCon el fin de domesticar un Wyvern, el jugador\ndebe robar un huevo y eclosionarlo para obtener uno";
 
 en: "There are three Wyvern egg variants\nWyvern Egg Fire, Wyvern Egg Lightning and \nWyvern Egg Poison.";
-es: "";
+es: "Tienes tres variantes de huevo de Wyvern's\nWyvern Huevo de Fuego, Wyvern huevo de Relampago y\nWyvern huevo Venenoso.";
 
 en: "feed the Wyvern baby all 2 hrs with Wyvern milk\nnarcotize and get the milk from female Wyvern or kill alphas\ngathering resources on the ground with default key [c]";
-es: "";
+es: "Alimentar el bebe de wyvern durante las dos primeras horas\n pueder obtener leche solo del Wyvern Mujer o matando alphas\npara obtener recursos estando en el piso apreta la letra (predeterminaca) [c]";
 
 en: "Egg stealing";
+es: "Salud del huevo";
+
+en: "(Estando en modo Vigilancia) \nCacas --> Fertilizante/Aceite";
 es: "";
 
-en: "(wandering and put in his inv) \nFeces --> Fertilizer/Oil";
-es: "";
-
-en: "faster egg production (wandering)";
-es: "";
+en: "faster egg production (Vigilancia)";
+es: "Producción rapida de Huevos (Vigilancia)";
 
 en: "more XP for dinos (pet it)";
-es: "";
+es: "Obtienes mas Exp. a tus Dinos (Acariciar)";
 
 en: "Berries";
-es: "";
+es: "Ballas";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: {1}";
-es: "";
+es: "Afinidad Necesaria: {0} \nSuministrar Afinidad: {1}";
 
 en: "Alarm @";
-es: "";
+es: "Alarma @";
 
 en: "min";  --(minutes)--
-es: "";
+es: "min";  --(minutos)--
 
 en: "Set";
-es: "";
+es: "Establecer";
 
 en: "Start";
-es: "";
+es: "Iniciar";
 
 en: "Stop";
-es: "";
+es: "Parar";
 
 en: "Dino Stats";
-es: "";
+es: "Stadisticas del Dino";
 
 en: "Patch Notes A-Calc / PC / Xbox / SotF";
-es: "";
+es: "Notas del Parche A-Calc / PC / Xbox / SotF";
 
 en: "Ark Maps";
-es: "";
+es: "Mapas de Ark";
 
 en: "Engrams";
-es: "";
+es: "Engramas";
 
 en: "Saddle - show";
-es: "";
+es: "Monturas - Mostrar";
 
 en: "Saddle - hide";
-es: "";
+es: "Monturas - Ocultar";
 
 en: "Kibble Recipes - show";
-es: "";
+es: "Recetas de Pienso - Mostrar";
 
 en: "Kibble Recipes - hide";
-es: "";
+es: "Recetas de Pienso - Ocultar";
 
 en: "Starve Timer - show";
-es: "";
+es: "Tiempo de Hambre - Mostrar";
 
 en: "Starve Timer - hide";
-es: "";
+es: "Tiempo de Hambre - Ocultar";
 
 en: "Narcotics Timer - show";
-es: "";
+es: "Tiempo de Narcoticos - Mostrar";
 
 en: "Narcotics Timer - hide";
-es: "";
+es: "Tiempo de Narcoticos - Ocultar";
 
 en: "Details - show";
-es: "";
+es: "Detalles - Mostrar";
 
 en: "Details - hide";
-es: "";
+es: "Detalles - Ocultar";
 
 en: "Times for Breeding - show";
-es: "";
+es: "Tiempo de crecimiento - Mostrar";
 
 en: "Times for Breeding - hide";
-es: "";
+es: "Tiempo de crecimiento - Ocultar";
 
 en: "type: Herbivore";
-es: "";
+es: "tipo: Herbivoro";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Kibble: {1} / Mejoberry: {2} / Veggie: {3} / other Berries: {4}";
-es: "";
+es: "Afinidad Necesaria: {0} \nAfinidad Subministrada: Pienso: {1} / Mejoberry: {2} / Vegetales: {3} / otras Ballas: {4}";
 
 en: "type: Minerals Eater\n\nImportant: Immune to any sort of narcotic effects\nKO Strategy: He has a weak spot on the head\nRocky makes a specific animation and sound when hit in the head and torpor is applied\nWeapons: Catapult Turret, Ballista Turret, Rocket Turret or Primitive Cannon\nPlayer number: 3-5";
-es: "";
+es: "tipo: Comedor de minerales\n\nImportante: Es inmune a cualquier tipo de efectos narcoticos\nEstrategia de Noqueo: Tiene un punto debil en la cabeza\nRocky hace una animacion y sonido cuando se le pega en la cabeza y se le aplica torpor\nArmas: Catapulta, Ballesta (Torreta), Torreta Lanzamiziles o Cañon primitivo\nNumero de Jugadores: 3-5";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Kibble: {1} / Sulfur: {2} / Clay: {3} / Stone: {4}";
-es: "";
+es: "Afinidad Necesaria: {0} \nSuministrar Afinidad: Pienso: {1} / Sulfuro: {2} / Arcilla: {3} / Piedra: {4}";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Plant Y Seeds: {1} / Mejoberry: {2} / Veggie: {3} / other Berries: {4}";
-es: "";
+es: "Afinidad Necesaria: {0} \nSuministrar Afinidad: Semillas Plantas Y: {1} / Mejoberry: {2} / Vegetales: {3} / otras Ballas: {4}";
 
 en: "type: Carnivore";
-es: "";
+es: "tipo: Carnivoro";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Kibble: {1} / Prime: {2} / Meat: {3} / Cooked Prime: {4} / Prime(Fish): {5} / Meat(Fish): {6}";
-es: "";
+es: "Afinidad Necesaria: {0} \nSuministrar Afinidad: Pienso: {1} / Primera: {2} / Carne: {3} / Primera Cocinada: {4} / Primera(Pescado): {5} / Carne(Pescado): {6}";
 
 en: "type: Omnivore";
-es: "";
+es: "tipo: Omnivoro";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Kibble: {1} / Chitin: {2}";
-es: "";
+es: "Afinidad Necesaria: {0} \nSuministrar Afinidad: Pienso: {1} / Quitina: {2}";
 
 en: "type: Carrion Eater";
-es: "";
+es: "tipo: Elemento de Carroña";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Spoiled Meat: {1}";
-es: "";
+es: "Afinidad Necesaria: {0} \nSuministrar Afinidad: Carne podrida: {1} ";
 
 en: "type: Egg eater";
-es: "";
+es: "tipo: Come huevo";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Giga Egg: {1} / Quetzal Egg: {2} / Rex Egg: {3} / Spino Egg: {4} / Bronto Egg: {5} / Carno Egg: {6}";
-es: "";
+es: "Afinidad Necesaria: {0} \nSuministrar Afinidad: Huevo de Giga: {1} /Huevo de Quetzal: {2} / Huevo de Rex: {3} / Huevo de Spino: {4} / Huevo de Bronto: {5} / Huevo de Carno: {6}";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Rare Mushroom: {1} / Plant Species X Seed: {2}";
-es: "";
+es: "Afinidad Necesaria: {0} \nSuministrar Afinidad: Hongo Raro: {1} / Planta Species X Semillas: {2}";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Large Animal Feces: {1} / Medium Animal Feces: {2} /  Small Animal Feces: {3}";
-es: "";
+es: "Afinidad Necesaria: {0} \nSuministrar Afinidad: Caca Grande de Animal: {1} / Caca Mediana de Animal : {2} /  Caca Pequeña de Animal: {3}";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Angler Gel: {1}";
-es: "";
+es: "Afinidad Necesaria: {0} \nSuministrar Afinidad: Angler Gel: {1}";
 
-en: "Affinity Needed: {0} \nAffinity Supplied: Death Worm Spike: {1}";
-es: "";
+en: "Affinity Needed: {0} \nAffinity Supplied: DeathWorm Horn: {1}";
+es: "Afinidad Necesaria: {0} \nSuministrar Afinidad: Cuerno de Gusano de la Muerte: {1}";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Broth of Enlightenment: {1} / Spoiled Meat: {2}";
-es: "";
+es: "Afinidad Necesaria: {0} \nSuministrar Afinidad: Caldo de la Illuminacion: {1} / Carne Podrida: {2}";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Rare Flower: {1} / Mejoberry: {2} / other Berries: {3}";
-es: "";
+es: "Afinidad Necesaria: {0} \nSuministrar Afinidad: Flor Rara: {1} / Mejoberry: {2} / otras ballas: {3}";
+
+_______________
+
+Marcelo R. Anton (xSmil3)
+Josue Martinez (Ezio93)
