@@ -20,6 +20,8 @@ Important:
 
 Don't forget to add your username or project website that you want to have added to the contributors.
 
+Want more languages? Send me a email info@a-calc.de
+
 
 # Languages Phase 1 Core Features
 | Country identifier  | Language           | Status  |
