@@ -138,8 +138,9 @@ es: "Bota de agua";
 en: "none";
 es: "nada";
 
-en: "Hide";
-es: "Oculto";
+en: "Hide"; <----leather
+//es: "Oculto";
+es: "cuero";
 
 en: "Wood";
 es: "Madera";
