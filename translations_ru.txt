@@ -140,7 +140,7 @@ en: "none";
 ru: "нет";
 
 en: "Hide";
-ru: "Скрыть";
+ru: "Кожа";
 
 en: "Wood";
 ru: "Дерево";
@@ -284,7 +284,7 @@ en: "Bonus LvL";
 ru: "Дополнительные уровни";
 
 en: "XP LvL";
-ru: "уровней за опыт";
+ru: "Уровней за опыт";
 
 en: "Torpor Total: {0} / Rate: {1} \nTime to drain torpor: {2} \nTime to refill narcos (Buffer): {3} \nTime to refill berries (Buffer): {4}";
 ru: "Всего оглушения: {0} / Скорость: {1} \nВремя до окончания оглушения: {2} \nВремя до пополнения Наркотика (запас): {3} \nВремя до пополнения Наркобери (запас): {4}";
@@ -375,7 +375,7 @@ en: "Kibble Recipes - show";
 ru: "Рецепты Киблов - показать";
 
 en: "Kibble Recipes - hide";
-ru: "Рецепты Киблок - скрыть";
+ru: "Рецепты Киблов - скрыть";
 
 en: "Starve Timer - show";
 ru: "Таймер сытости - показать";
@@ -402,13 +402,13 @@ en: "Times for Breeding - hide";
 ru: "Время выращивания - скрыть";
 
 en: "type: Herbivore";
-ru: "тип: Травоядное";
+ru: "Тип: Травоядное";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Kibble: {1} / Mejoberry: {2} / Veggie: {3} / other Berries: {4}";
 ru: "Необходимо привязанности: {0} \nПолучаемая привязанность: Кибблы: {1} / Меджоберри: {2} / Овощи: {3} / другие ягоды: {4}";
 
 en: "type: Minerals Eater\n\nImportant: Immune to any sort of narcotic effects\nKO Strategy: He has a weak spot on the head\nRocky makes a specific animation and sound when hit in the head and torpor is applied\nWeapons: Catapult Turret, Ballista Turret, Rocket Turret or Primitive Cannon\nPlayer number: 3-5";
-ru: "тип: Минералоядный\n\nВажно: Имунитет к любым видам наркотика\nСтратегия оглушения: У него есть слабое место на голове\nГорный элементаль делает особое движение и звук, когда получает удар по голове и оглушение срабатывает\nОружие: Катапульта, Балиста, Ракетная турель или Пушка\nКоличество игроков: 3-5";
+ru: "Тип: Минералоядный\n\nВажно: Имунитет к любым видам наркотика\nСтратегия оглушения: У него есть слабое место на голове\nГорный элементаль делает особое движение и звук, когда получает удар по голове и оглушение срабатывает\nОружие: Катапульта, Балиста, Ракетная турель или Пушка\nКоличество игроков: 3-5";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Kibble: {1} / Sulfur: {2} / Clay: {3} / Stone: {4}";
 ru: "Необходимо привязанности: {0} \nПолучаемая привязанность: Кибблы: {1} / Сера: {2} / Глина: {3} / Камень: {4}";
@@ -417,25 +417,25 @@ en: "Affinity Needed: {0} \nAffinity Supplied: Plant Y Seeds: {1} / Mejoberry: {
 ru: "Необходимо привязанности: {0} \nПолучаемая привязанность: Семена растения Y: {1} / Меджоберри: {2} / Овощи: {3} / другие ягоды: {4}";
 
 en: "type: Carnivore";
-ru: "тип: Хищник";
+ru: "Тип: Хищник";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Kibble: {1} / Prime: {2} / Meat: {3} / Cooked Prime: {4} / Prime(Fish): {5} / Meat(Fish): {6}";
 ru: "Необходимо привязанности: {0} \nПолучаемая привязанность: Кибблы: {1} / Первосорт: {2} / Мясо: {3} / Жареный Первосорт: {4} / Первосорт(Рыба): {5} / Рыба: {6}";
 
 en: "type: Omnivore";
-ru: "тип: Всеядное";
+ru: "Тип: Всеядное";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Kibble: {1} / Chitin: {2}";
 ru: "Необходимо привязанности: {0} \nПолучаемая привязанность: Кибблы: {1} / Хитин: {2}";
 
 en: "type: Carrion Eater";
-ru: "тип: Трупоед";
+ru: "Тип: Трупоед";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Spoiled Meat: {1}";
 ru: "Необходимо привязанности: {0} \nПолучаемая привязанность: Протухшее Мясо: {1}";
 
 en: "type: Egg eater";
-ru: "тип: Яйцеед";
+ru: "Тип: Яйцеед";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Giga Egg: {1} / Quetzal Egg: {2} / Rex Egg: {3} / Spino Egg: {4} / Bronto Egg: {5} / Carno Egg: {6}";
 ru: "Необходимо привязанности: {0} \nПолучаемая привязанность: Яйцо Гиги: {1} / Яйцо Кетцаля : {2} / Яйцо Рекса: {3} / Яйцо Спино: {4} / Яйцо Бронто: {5} / Яйцо Карно: {6}";
