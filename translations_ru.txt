@@ -140,7 +140,7 @@ en: "none";
 ru: "нет";
 
 en: "Hide";
-ru: "Скрыть";
+ru: "Кожа";
 
 en: "Wood";
 ru: "Дерево";
@@ -284,7 +284,7 @@ en: "Bonus LvL";
 ru: "Дополнительные уровни";
 
 en: "XP LvL";
-ru: "уровней за опыт";
+ru: "Уровней за опыт";
 
 en: "Torpor Total: {0} / Rate: {1} \nTime to drain torpor: {2} \nTime to refill narcos (Buffer): {3} \nTime to refill berries (Buffer): {4}";
 ru: "Всего оглушения: {0} / Скорость: {1} \nВремя до окончания оглушения: {2} \nВремя до пополнения Наркотика (запас): {3} \nВремя до пополнения Наркобери (запас): {4}";
