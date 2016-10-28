@@ -32,4 +32,5 @@ Want more languages? Send me a email info@a-calc.de
 | fr | French      |    0 % |
 | it | Italian      |    0 % |
 | pl | Polish      |    0 % |
+| pt | Portuguese      |    0 % |
 | ru | Russian      |    100 % |
