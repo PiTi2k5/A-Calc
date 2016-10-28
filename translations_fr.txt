@@ -300,7 +300,7 @@ fr: "";
 en: "KO Strategy: He has a weak spot on the head\nTitano makes a specific animation and sound when hit in the head and torpor is applied";
 fr: "";
 
-en: "Weapons: Catapult Turret, Ballista Turret, Rocket Turret or Primitive Cannon\nPlayer number: 3-5";
+en: "Weapons: Catapult Turret, Rocket Launcher, Rocket Turret or Primitive\nCannon\nPlayer number: 3-5";
 fr: "";
 
 en: "after KO: Equip his saddle platform ---> tamed for 24 h";
@@ -405,7 +405,7 @@ fr: "";
 en: "Affinity Needed: {0} \nAffinity Supplied: Kibble: {1} / Mejoberry: {2} / Veggie: {3} / other Berries: {4}";
 fr: "";
 
-en: "type: Minerals Eater\n\nImportant: Immune to any sort of narcotic effects\nKO Strategy: He has a weak spot on the head\nRocky makes a specific animation and sound when hit in the head and torpor is applied\nWeapons: Catapult Turret, Ballista Turret, Rocket Turret or Primitive Cannon\nPlayer number: 3-5";
+en: "type: Minerals Eater\n\nImportant: Immune to any sort of narcotic effects\nKO Strategy: He has a weak spot on the head\nRocky makes a specific animation and sound when hit in the head and torpor is applied\nWeapons: Catapult Turret, Rocket Launcher, Rocket Turret or Primitive\nCannon\nPlayer number: 3-5";
 fr: "";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Kibble: {1} / Sulfur: {2} / Clay: {3} / Stone: {4}";
