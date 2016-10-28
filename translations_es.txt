@@ -301,8 +301,8 @@ es: "Importante: Inmune a cualquier tipo de efectos narcoticos\nDuración: sólo
 en: "KO Strategy: He has a weak spot on the head\nTitano makes a specific animation and sound when hit in the head and torpor is applied";
 es: "Estrategia para KO: Su punto debil es la cabeza\nEl Titano realiza una animación y sonido específico cuando el proyectil golpea su cabeza y se le aplica el Torpor";
 
-en: "Weapons: Catapult Turret, Ballista Turret, Rocket Turret or Primitive Cannon\nPlayer number: 3-5";
-es: "Armas: Catapulta, Ballesta (Torreta), Torreta Lanzamiziles o Cañon primitivo\nNumero de Jugadores: 3-5";";
+en: "Weapons: Catapult Turret, Rocket Launcher, Rocket Turret or Primitive\nCannon\nPlayer number: 3-5";
+es: "Armas: Catapulta, Lanzacohetes, Torreta Lanzamiziles o Cañon primitivo\nNumero de Jugadores: 3-5";
 
 en: "after KO: Equip his saddle platform ---> tamed for 24 h";
 es: "Luego de KO: Equipa la montura con plataforma ---> Domesticado durante 24 horas";
@@ -406,8 +406,8 @@ es: "tipo: Herbivoro";
 en: "Affinity Needed: {0} \nAffinity Supplied: Kibble: {1} / Mejoberry: {2} / Veggie: {3} / other Berries: {4}";
 es: "Afinidad Necesaria: {0} \nAfinidad Subministrada: Pienso: {1} / Mejoberry: {2} / Vegetales: {3} / otras Ballas: {4}";
 
-en: "type: Minerals Eater\n\nImportant: Immune to any sort of narcotic effects\nKO Strategy: He has a weak spot on the head\nRocky makes a specific animation and sound when hit in the head and torpor is applied\nWeapons: Catapult Turret, Ballista Turret, Rocket Turret or Primitive Cannon\nPlayer number: 3-5";
-es: "tipo: Comedor de minerales\n\nImportante: Es inmune a cualquier tipo de efectos narcoticos\nEstrategia de Noqueo: Tiene un punto debil en la cabeza\nRocky hace una animacion y sonido cuando se le pega en la cabeza y se le aplica torpor\nArmas: Catapulta, Ballesta (Torreta), Torreta Lanzamiziles o Cañon primitivo\nNumero de Jugadores: 3-5";
+en: "type: Minerals Eater\n\nImportant: Immune to any sort of narcotic effects\nKO Strategy: He has a weak spot on the head\nRocky makes a specific animation and sound when hit in the head and torpor is applied\nWeapons: Catapult Turret, Rocket Launcher, Rocket Turret or Primitive\nCannon\nPlayer number: 3-5";
+es: "tipo: Comedor de minerales\n\nImportante: Es inmune a cualquier tipo de efectos narcoticos\nEstrategia de Noqueo: Tiene un punto debil en la cabeza\nRocky hace una animacion y sonido cuando se le pega en la cabeza y se le aplica torpor\nArmas: Catapulta, Lanzacohetes, Torreta Lanzamiziles o Cañon primitivo\nNumero de Jugadores: 3-5";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Kibble: {1} / Sulfur: {2} / Clay: {3} / Stone: {4}";
 es: "Afinidad Necesaria: {0} \nSuministrar Afinidad: Pienso: {1} / Sulfuro: {2} / Arcilla: {3} / Piedra: {4}";
