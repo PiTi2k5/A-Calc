@@ -138,7 +138,7 @@ pl: "";
 en: "none";
 pl: "";
 
-en: "Hide";
+en: "Hide"; (leather)
 pl: "";
 
 en: "Wood";
