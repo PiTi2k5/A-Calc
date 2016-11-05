@@ -4,244 +4,244 @@ A-Calc www.a-calc.de Community translations
 
 
 en: "Level:";
-it: "";
+it: "Livello";
 
 en: "Choose a Dino:";
-it: "";
+it: "Scegliere un Dino ";
 
 en: "Choose a Dino:";
-it: "";
+it: "Scegliere un Dino ";
 
 en: "useless points";
-it: "";
+it: "Punti inutili ";
 
 en: "A Dino is given a stat point for each level \nat level 120 will have 119 stat points (Dino LvL - 1) \nEach of these points are assigned to a random stat, with a change of 1/7 (14.28%) upgrading each stat \nThe movement speed of a wild Dino will not be increased, so that stat point will be useless \nThe Torpor stat is increased static with every level \nWorks only for wild Dinos, knocked it out and check their stats for good Base Stats";
-it: "";
+it: "Un Dino è dato un punto stat per ogni livello \NAT livello 120 avrà 119 punti stat (Dino LvL - 1) \nCiascuno di questi punti vengono assegnati a una statistica a caso, con un cambio di 1\/7 (14,28%) l'aggiornamento ogni stat \nLa velocità di movimento di un Dino selvaggio non sarà aumentata, modo che stat punto sarà inutile \nIl torpore stat è aumentato statica con tutti i livelli \nFunziona solo per selvatici Dinos, lo sconfigge e controllare le loro statistiche per buone statistiche di Base";
 
 en: "Total tame time: ";
-it: "";
+it: "Tempo totale di doma";
 
 en: "Food rate Multi x";
-it: "";
+it: "Tasso di cibo Multi x";
 
 en: "Taming Multi x";
-it: "";
+it: "Addomesticare Multi x";
 
 en: "K.o. - Body hits projectile (5sec rotation)";
-it: "";
+it: "K.o. - Corpo hits proiettile (rotazione di 5sec)";
 
 en: "Weapon DMG";
-it: "";
+it: "Arma DMG";
 
 en: "% Melee DMG";
-it: "";
+it: "% Mischia DMG";
 
 en: "Dino awake";
-it: "";
+it: "Dino sveglio";
 
 en: "Current Torpor";
-it: "";
+it: "Torpore attuale";
 
 en: "Use";
-it: "";
+it: "Usa";
 
 en: "Buffer: ";
-it: "";
+it: "Buffer";
 
 en: "For Max: ";
-it: "";
+it: "Per massimo";
 
 en: "Narcotics:";
-it: "";
+it: "Narcotici";
 
 en: "Target Food:";
-it: "";
+it: "Cibo di destinazione";
 
 en: "Starved in:";
-it: "";
+it: "Morto di fame:";
 
 en: "Current Food";
-it: "";
+it: "Cibo attuale";
 
 en: "Max Food";
-it: "";
+it: "Massimo Cibo";
 
 en: "feed Dino!!!";
-it: "";
+it: "alimente Dino!!!";
 
 en: "Berries instead Narcotic";
-it: "";
+it: "Frutti di bosco invece Narcotico";
 
 en: "Favorite kibble";
-it: "";
+it: "Kibble preferita";
 
 en: "Produces kibble";
-it: "";
+it: "Produce kibble ";
 
 en: "add/remove food (touch the food icon)";
-it: "";
+it: "aggiungere/rimuovere cibo (tocco sull'icona di cibo)";
 
 en: "Saddle";
-it: "";
+it: "Sella";
 
 en: "Platform Saddle";
-it: "";
+it: "Piattaforma Sella";
 
 en: "Mejoberry";
-it: "";
+it: "Mejoberry";
 
 en: "Fiber";
-it: "";
+it: "Fibra";
 
-en: " Egg";
-it: "";
+en: "Egg";
+it: "Uovo";
 
 en: "Longrass";
-it: "";
+it: "Mais";
 
 en: "Rockarrot";
-it: "";
+it: "Carota";
 
 en: "Citronal";
-it: "";
+it: "Limone";
 
 en: "Savoroot";
-it: "";
+it: "Patata";
 
 en: "Prime Meat Jerky";
-it: "";
+it: "Eccellente Carne Affumicata";
 
 en: "Cooked Meat Jerky";
-it: "";
+it: "Carne Cotta Affumicata";
 
 en: "Cooked Meat";
-it: "";
+it: "Carne Cotta";
 
 en: "Cooked Fish Meat";
-it: "";
+it: "Carne Di Pesce Cotto";
 
 en: "Cooked Prime Fish Meat";
-it: "";
+it: "Eccellente Carne Di Pesce Cotto";
 
-en: "Cooked Prime";
-it: "";
+en: "Cooked Prime Meat";
+it: "Eccellente Carne Cotta";
 
 en: "Raw Prime Meat";
-it: "";
+it: "Eccellente Carne Cruda";
 
 en: "Spoiled Meat";
-it: "";
+it: "Carne Avariata";
 
 en: "Waterskin";
-it: "";
+it: "Sacchetto Di Acqua";
 
 en: "none";
-it: "";
+it: "nessuno";
 
 en: "Hide"; (leather)
-it: "";
+it: "Pelle";
 
 en: "Wood";
-it: "";
+it: "Legno";
 
 en: "Metal Ingots";
-it: "";
+it: "Lingotti Di Metallo";
 
-en: "for: ";
-it: "";
+en: "for:";
+it: "per:";
 
 en: "Silica Pearls";
-it: "";
+it: "Perle Di Silica";
 
 en: "Cementing Paste";
-it: "";
+it: "Cementazione Incolla";
 
 en: "Stone";
-it: "";
+it: "Pietra";
 
 en: "Metal";
-it: "";
+it: "Metallo";
 
 en: "Flint";
-it: "";
+it: "Selce Piromaca";
 
 en: "Pelt";
-it: "";
+it: "Pelliccia";
 
 en: "Thatch";
-it: "";
+it: "Paglia";
 
 en: "Rare Flower";
-it: "";
+it: "Fiore Raro";
 
 en: "Clay";
-it: "";
+it: "Argilla";
 
 en: " Kibble";
-it: "";
+it: "Kibble";
 
 en: "Rare Mushroom";
-it: "";
+it: "Funghi Raro";
 
 en: "Angler Gel";
-it: "";
+it: "Angler Gel";
 
 en: "Large Animal Feces";
-it: "";
+it: "Grandi Feci Animali";
 
 en: "Broth of Enlightenment";
-it: "";
+it: "Brodo Di Illuminazione";
 
 en: "Obsidian";
-it: "";
+it: "Obsidian";
 
 en: "Chitin";
-it: "";
+it: "Chitina";
 
 en: "Plant Species Y Seed";
-it: "";
+it: "Pianta Semi Di Specie Y";
 
-en: "Death Worm Spike";
-it: "";
+en: "Deathworm Spike";
+it: "Puntura Di Deathworm";
 
 en: "baby";
-it: "";
+it: "bambino";
 
 en: "juvenile";
-it: "";
+it: "giovanile";
 
 en: "adolescent";
-it: "";
+it: "adolescente";
 
 en: "Total Maturation: ";
-it: "";
+it: "Maturazione Totale:";
 
 en: "Total Breeding Time: ";
-it: "";
+it: "Tempo Totale D'allevamento:";
 
 en: "Incubation Time: ";
-it: "";
+it: "Tempo Di Incubazione";
 
 en: "Gestation Time: ";
-it: "";
+it: "Tempo Di Gestazione:";
 
 en: "Incubation temperature: ";
-it: "";
+it: "Temperatura Di Incubazione:";
 
 en: "hatch Multi x";
-it: "";
+it: "uscire dal guscio Multi x";
 
 en: "mature Multi x";
-it: "";
+it: "maturare Multi x";
 
 en: "Carryable by";
-it: "";
+it: "Trasportabile da";
 
 en: "Open official Ark Wiki Page";
-it: "";
+it: "Aperto Ark Wiki Page ufficiale";
 
 en: "Open Carryable Overview";
-it: "";
+it: "Aperto Portatile Panoramica";
 
 en: "Rate A-Calc Pro";
 it: "";
