@@ -11,3 +11,6 @@
 
 ## Russian Translations
 1. InVeRnyako
+
+## Italian Translations
+1. nomis23 - https://arksurvivalevolved.zone/
