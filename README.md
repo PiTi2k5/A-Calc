@@ -30,7 +30,7 @@ Want more languages? Send me a email info@a-calc.de
 | en      | English      |   100 % |
 | es | Spanish      |    100 % |
 | fr | French      |    0 % |
-| it | Italian      |    50 % |
+| it | Italian      |    98 % |
 | pl | Polish      |    0 % |
 | pt | Portuguese      |    0 % |
 | ru | Russian      |    100 % |
