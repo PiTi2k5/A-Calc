@@ -286,7 +286,7 @@ en: "XP LvL";
 it: "XP LvL";
 
 en: "Torpor Total: {0} / Rate: {1} \nTime to drain torpor: {2} \nTime to refill narcos (Buffer): {3} \nTime to refill berries (Buffer): {4}";
-it: "Totale di Accidia: {0} / Tasso: {1} \nTempo  : {2} \nTempo ricaricare narcotici (Buffer): {3} \nTempo ricaricare frutti di bosco (Buffer): {4} ";
+it: "Totale di Accidia: {0} / Tasso: {1} \nTempo  : {2} \nTempo ricaricare narcotici (Buffer): {3} \nTempo ricaricare frutti di bosco (Buffer): {4}";
 
 en: "berries";
 it: "frutti di bosco";
