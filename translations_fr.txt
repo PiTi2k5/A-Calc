@@ -455,3 +455,4 @@ fr: "";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Rare Flower: {1} / Mejoberry: {2} / other Berries: {3}";
 fr: "";
+
