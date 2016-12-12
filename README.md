@@ -24,13 +24,13 @@ Want more languages? Send me a email info@a-calc.de
 
 
 # Languages Phase 1 Core Features
-| Country identifier  | Language           | Status  |
-| ------------- |:-------------:| -----:|
-| de      | German | 100 % |
-| en      | English      |   100 % |
-| es | Spanish      |    100 % |
-| fr | French      |    0 % |
-| it | Italian      |    100 % |
-| pl | Polish      |    0 % |
-| pt | Portuguese      |    0 % |
-| ru | Russian      |    100 % |
+| Country identifier  | Language           | Status inApp | Status App describtion  |
+| ------------- |:-------------:| -----:| -----:|
+| de      | German | 100 % | 100 % |
+| en      | English      |   100 % | 100 % |
+| es | Spanish      |    100 % | 100 % |
+| fr | French      |    0 % | 0 % |
+| it | Italian      |    100 % | 0 % |
+| pl | Polish      |    0 % | 0 % |
+| pt | Portuguese      |    0 % | 0 % |
+| ru | Russian      |    100 % | 100 % |
