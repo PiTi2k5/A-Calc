@@ -4,455 +4,455 @@ A-Calc www.a-calc.de Community translations
 
 
 en: "Level:";
-pl: "";
+pl: "Poziom:";
 
 en: "Choose a Dino:";
-pl: "";
+pl: "Wybierz Dinozaura:";
 
 en: "Choose a Dino:";
-pl: "";
+pl: "Wybierz Dinozaura:";
 
 en: "useless points";
-pl: "";
+pl: "bezużytecznych punktów";
 
 en: "A Dino is given a stat point for each level \nat level 120 will have 119 stat points (Dino LvL - 1) \nEach of these points are assigned to a random stat, with a change of 1/7 (14.28%) upgrading each stat \nThe movement speed of a wild Dino will not be increased, so that stat point will be useless \nThe Torpor stat is increased static with every level \nWorks only for wild Dinos, knocked it out and check their stats for good Base Stats";
-pl: "";
+pl: "Dinozaur dostaje punkt statystyk za każdy poziom \nna poziomie 120 będzie miał 119 punktów statystyk (Poziom Dinozaura - 1) \nKażdy z tych punktów przypisywany jest do losowej statystyki, podnosząc ją o 1/7 (14.28%) \nPrędkość dzikich Dinozaurów nie zostanie zwiększona, więc punkty użyte na tą statystykę będą bezużyteczne \nStatystyka Apatii jest zwiększana statycznie z każdym poziomem \nDziała to tylko na dzikie Dinozaury, uśpij je i sprawdź ich statystyki dla dobrych Statystyk Podstawowych";
 
 en: "Total tame time: ";
-pl: "";
+pl: "Całkowity czas oswajania: ";
 
 en: "Food rate Multi x";
-pl: "";
+pl: "Mnożnik szybkości jedzenia x";
 
 en: "Taming Multi x";
-pl: "";
+pl: "Mnożnik szybkości oswajania x";
 
 en: "K.o. - Body hits projectile (5sec rotation)";
-pl: "";
+pl: "K.O. - Trafień w ciało (co 5 sekund)";
 
 en: "Weapon DMG";
-pl: "";
+pl: "Obrażenia broni";
 
 en: "% Melee DMG";
-pl: "";
+pl: "% Obrażeń";
 
 en: "Dino awake";
 pl: "";
 
 en: "Current Torpor";
-pl: "";
+pl: "Aktualna Apatia";
 
 en: "Use";
-pl: "";
+pl: "Użyj";
 
 en: "Buffer: ";
-pl: "";
+pl: "Bufor: ";
 
 en: "For Max: ";
-pl: "";
+pl: "Dla Max: ";
 
 en: "Narcotics:";
-pl: "";
+pl: "Narkotyki:";
 
 en: "Target Food:";
-pl: "";
+pl: "Pożywienie celu:";
 
 en: "Starved in:";
-pl: "";
+pl: "Zagłodzony w:";
 
 en: "Current Food";
-pl: "";
+pl: "Aktualne Jedzenie";
 
 en: "Max Food";
-pl: "";
+pl: "Max Jedzenie";
 
 en: "feed Dino!!!";
-pl: "";
+pl: "nakarm Dinozaura!!!";
 
 en: "Berries instead Narcotic";
-pl: "";
+pl: "Jagody zamiast Narkotyków";
 
 en: "Favorite kibble";
-pl: "";
+pl: "Ulubiony przysmak";
 
 en: "Produces kibble";
-pl: "";
+pl: "Wytwarza przysmak";
 
 en: "add/remove food (touch the food icon)";
-pl: "";
+pl: "dodaj/usuń jedzenie (dotknij ikony jedzenia)";
 
 en: "Saddle";
-pl: "";
+pl: "Siodło";
 
 en: "Platform Saddle";
-pl: "";
+pl: "Siodło z platformą";
 
 en: "Mejoberry";
-pl: "";
+pl: "Mejogoda";
 
 en: "Fiber";
-pl: "";
+pl: "Włókno";
 
 en: " Egg";
-pl: "";
+pl: " Jajo";
 
 en: "Longrass";
-pl: "";
+pl: "Kukurydza";
 
 en: "Rockarrot";
-pl: "";
+pl: "Marchew";
 
 en: "Citronal";
-pl: "";
+pl: "Cytryna";
 
 en: "Savoroot";
-pl: "";
+pl: "Ziemniak";
 
 en: "Prime Meat Jerky";
-pl: "";
+pl: "Suszone Prastare Mięso";
 
 en: "Cooked Meat Jerky";
-pl: "";
+pl: "Suszone Mięso";
 
 en: "Cooked Meat";
-pl: "";
+pl: "Gotowane Mięso";
 
 en: "Cooked Fish Meat";
-pl: "";
+pl: "Gotowane Mięso Ryb";
 
 en: "Cooked Prime Fish Meat";
-pl: "";
+pl: "Gotowane Prastare Mięso Ryb";
 
 en: "Cooked Prime";
-pl: "";
+pl: "Gotowane Prastare Mięso";
 
 en: "Raw Prime Meat";
-pl: "";
+pl: "Surowe Prastare Mięso";
 
 en: "Spoiled Meat";
-pl: "";
+pl: "Zepsute Mięso";
 
 en: "Waterskin";
-pl: "";
+pl: "Bukłak";
 
 en: "none";
-pl: "";
+pl: "brak";
 
 en: "Hide"; (leather)
-pl: "";
+pl: "Skóra";
 
 en: "Wood";
-pl: "";
+pl: "Drewno";
 
 en: "Metal Ingots";
-pl: "";
+pl: "Sztabka Metalu";
 
 en: "for: ";
-pl: "";
+pl: "dla: ";
 
 en: "Silica Pearls";
-pl: "";
+pl: "Perły";
 
 en: "Cementing Paste";
-pl: "";
+pl: "Cement";
 
 en: "Stone";
-pl: "";
+pl: "Kamień";
 
 en: "Metal";
-pl: "";
+pl: "Metal";
 
 en: "Flint";
-pl: "";
+pl: "Krzemień";
 
 en: "Pelt";
-pl: "";
+pl: "Futro";
 
 en: "Thatch";
-pl: "";
+pl: "Słoma";
 
 en: "Rare Flower";
-pl: "";
+pl: "Rzadki Kwiat";
 
 en: "Clay";
-pl: "";
+pl: "Glina";
 
 en: " Kibble";
-pl: "";
+pl: " Przysmak";
 
 en: "Rare Mushroom";
-pl: "";
+pl: "Rzadki Grzyb";
 
 en: "Angler Gel";
-pl: "";
+pl: "Żabnicożel";
 
 en: "Large Animal Feces";
-pl: "";
+pl: "Duże odchody zwierzęce";
 
 en: "Broth of Enlightenment";
-pl: "";
+pl: "Wywar Oświecenia";
 
 en: "Obsidian";
-pl: "";
+pl: "Obsydian";
 
 en: "Chitin";
-pl: "";
+pl: "Chityna";
 
 en: "Plant Species Y Seed";
-pl: "";
+pl: "Nasiona Gatunku Y";
 
 en: "Death Worm Spike";
-pl: "";
+pl: "Kolec Death Worma";
 
 en: "baby";
-pl: "";
+pl: "dziecko";
 
 en: "juvenile";
-pl: "";
+pl: "młody";
 
 en: "adolescent";
-pl: "";
+pl: "dorastający";
 
 en: "Total Maturation: ";
-pl: "";
+pl: "Całkowity czas dorastania: ";
 
 en: "Total Breeding Time: ";
-pl: "";
+pl: "Całkowity czas rozmnażania: ";
 
 en: "Incubation Time: ";
-pl: "";
+pl: "Czas inkubacji: ";
 
 en: "Gestation Time: ";
-pl: "";
+pl: "Czas ciąży: ";
 
 en: "Incubation temperature: ";
-pl: "";
+pl: "Temperatura inkubacji: ";
 
 en: "hatch Multi x";
-pl: "";
+pl: "Mnożnik wykluwania x";
 
 en: "mature Multi x";
-pl: "";
+pl: "Mnożnik dorastania x";
 
 en: "Carryable by";
-pl: "";
+pl: "Może być noszony przez";
 
 en: "Open official Ark Wiki Page";
-pl: "";
+pl: "Otwórz stronę oficjalnej Wiki Ark";
 
 en: "Open Carryable Overview";
-pl: "";
+pl: "Otwórz Przegląd Unoszenia";
 
 en: "Rate A-Calc Pro";
-pl: "";
+pl: "Oceń A-Calc Pro";
 
 en: "Recipes";
-pl: "";
+pl: "Przepisy";
 
 en: "Please rate";
-pl: "";
+pl: "Prosimy o ocenę";
 
 en: "XP for Killing: ";
-pl: "";
+pl: "XP za zabicie: ";
 
 en: "Gathers autonomously(wandering): ";
-pl: "";
+pl: "Zbiera automatycznie(wędrowanie): ";
 
 en: "resources gathering Top3";
-pl: "";
+pl: "Top3 zbierania zasobów";
 
 en: "Favors Food: ";
-pl: "";
+pl: "Preferowane Jedzenie: ";
 
 en: "Total food: ";
-pl: "";
+pl: "Całkowite jedzenie: ";
 
 en: "Food rate: ";
-pl: "";
+pl: "Tempo jedzenia: ";
 
 en: "Effectiveness: ";
-pl: "";
+pl: "Efektywność: ";
 
 en: "LvL after taming: ";
-pl: "";
+pl: "Poziom po oswojeniu: ";
 
 en: "Max LvL: ";
-pl: "";
+pl: "Maks LvL: ";
 
 en: "Bonus LvL";
-pl: "";
+pl: "Bonus LvL";
 
 en: "XP LvL";
-pl: "";
+pl: "XP LvL";
 
 en: "Torpor Total: {0} / Rate: {1} \nTime to drain torpor: {2} \nTime to refill narcos (Buffer): {3} \nTime to refill berries (Buffer): {4}";
-pl: "";
+pl: "Całkowita Apatia: {0} / Tempo: {1} \nCzas do przebudzenia: {2} \nCzas na dodanie narkotyków (Bufor): {3} \nCzas na dodanie jagód (Bufor): {4}";
 
 en: "berries";
-pl: "";
+pl: "jagód";
 
 en: "narcos";
-pl: "";
+pl: "narkotyków";
 
 en: "Important: Immune to any sort of narcotic effects\nDuration: only 24 h real time (no permanent taming)\nonly 3 can exist at once";
-pl: "";
+pl: "Ważne: Odporny na efekty jakichkolwiek narkotyków\nCzas trwania: tylko 24 godziny prawdziwego czasu (nie można oswoić na stałe)\njednocześnie mogą istnieć tylko 3";
 
 en: "KO Strategy: He has a weak spot on the head\nTitano makes a specific animation and sound when hit in the head and torpor is applied";
-pl: "";
+pl: "Strategia KO: Głowa to jego słaby punkt\nTytanozaur ma specyficzną animację i odgłos, gdy zostanie trafiony w głowę i zwiększy mu się apatia";
 
 en: "Weapons: Catapult Turret, Rocket Launcher, Rocket Turret or Primitive\nCannon\nPlayer number: 3-5";
 pl: "";
 
 en: "after KO: Equip his saddle platform ---> tamed for 24 h";
-pl: "";
+pl: "po KO: Załóż jego siodło z platformą ---> oswojony na 24 godziny";
 
 en: "Tamed Info: No XP gain, you can´t feed him (foodstat=tamed duration)\nequal stats for each lvl\nPrivat Server: Command Line ?AllowRaidDinoFeeding=true allow permanent taming";
-pl: "";
+pl: "Info po oswojeniu: Nie dostaje XP, nie można go nakarmić (statystyka jedzenia=pozostały czas oswojenia)\nrówne statystyki na każdym poziomie\nSerwer Prywatny: Wpisanie w Linii Komend ? AllowRaidDinoFeeding=true pozwala na oswojenie permanentne";
 
 en: "Important: Adult Wyverns can not be tamed.\nIn order to get a tamed Wyvern, the player\nmust steal and hatch a Wyvern Egg.";
-pl: "";
+pl: "Ważne: Dorosłe Wiwerny nie mogą zostać oswojone.\nW celu oswojenia Wiwerny, gracz\nmusi ukrać i wykluć Jajo Wiwerny.";
 
 en: "There are three Wyvern egg variants\nWyvern Egg Fire, Wyvern Egg Lightning and \nWyvern Egg Poison.";
-pl: "";
+pl: "Są trzy rodzaje jaja Wiwerny\nJajo Ognistej Wiwerny, Jajo Elektrycznej Wiwerny i \nJajo Trującej Wiwerny.";
 
 en: "feed the Wyvern baby all 2 hrs with Wyvern milk\nnarcotize and get the milk from female Wyvern or kill alphas\ngathering resources on the ground with default key [c]";
-pl: "";
+pl: "przez całe 2 godziny karm dziecko Wiwerny Mlekiem Wiwerny\nktóre możesz zdobyć od uśpionej Wiwerny (żeńskiej) lub zabijając alfy\nużywając domyślnego klawisza [E] do zbierania zasobów";
 
 en: "Egg stealing";
-pl: "";
+pl: "Kradzież jaja";
 
 en: "(wandering and put in his inv) \nFeces --> Fertilizer/Oil";
-pl: "";
+pl: "(wędrowanie i włożone do jego inv) \nOdchody --> Nawóz/Ropa";
 
 en: "faster egg production (wandering)";
-pl: "";
+pl: "szybsza produkcja jaj (wędrowanie)";
 
 en: "more XP for dinos (pet it)";
-pl: "";
+pl: "więcej XP dla dinozaurów (Pogłaszcz)";
 
 en: "Berries";
-pl: "";
+pl: "Jagody";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: {1}";
-pl: "";
+pl: "Wymagane przywiązanie: {0} \nDostarczone Przywiązanie: {1}";
 
 en: "Alarm @";
-pl: "";
+pl: "Alarm @";
 
 en: "min";  --(minutes)--
-pl: "";
+pl: "min";
 
 en: "Set";
-pl: "";
+pl: "Ustaw";
 
 en: "Start";
-pl: "";
+pl: "Start";
 
 en: "Stop";
-pl: "";
+pl: "Stop";
 
 en: "Dino Stats";
-pl: "";
+pl: "Statystyki Dinozaura";
 
 en: "Patch Notes A-Calc / PC / Xbox / SotF";
-pl: "";
+pl: "Notki do patcha A-Calc / PC / Xbox / SotF";
 
 en: "Ark Maps";
-pl: "";
+pl: "Mapy Ark";
 
 en: "Engrams";
-pl: "";
+pl: "Engramy";
 
 en: "Saddle - show";
-pl: "";
+pl: "Siodło - pokaż";
 
 en: "Saddle - hide";
-pl: "";
+pl: "Siodło - ukryj";
 
 en: "Kibble Recipes - show";
-pl: "";
+pl: "Przepisy na Przysmaki - pokaż";
 
 en: "Kibble Recipes - hide";
-pl: "";
+pl: "Przepisy na Przysmaki - ukryj";
 
 en: "Starve Timer - show";
-pl: "";
+pl: "Licznik Zagłodzenia - pokaż";
 
 en: "Starve Timer - hide";
-pl: "";
+pl: "Licznik Zagłodzenia - ukryj";
 
 en: "Narcotics Timer - show";
-pl: "";
+pl: "Licznik działania Narkotyków - pokaż";
 
 en: "Narcotics Timer - hide";
-pl: "";
+pl: "Licznik działania Narkotyków - ukryj";
 
 en: "Details - show";
-pl: "";
+pl: "Szczegóły - pokaż";
 
 en: "Details - hide";
-pl: "";
+pl: "Szczegóły - ukryj";
 
 en: "Times for Breeding - show";
-pl: "";
+pl: "Czas do Rozmnażania - pokaż";
 
 en: "Times for Breeding - hide";
-pl: "";
+pl: "Czas do Rozmnażania - ukryj";
 
 en: "type: Herbivore";
-pl: "";
+pl: "typ: Roślinożerny";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Kibble: {1} / Mejoberry: {2} / Veggie: {3} / other Berries: {4}";
-pl: "";
+pl: "Wymagane przywiązanie: {0} \nDostarczone Przywiązanie: Przysmak: {1} / Mejogoda: {2} / Warzywa: {3} / inne Jagody: {4}";
 
 en: "type: Minerals Eater\n\nImportant: Immune to any sort of narcotic effects\nKO Strategy: He has a weak spot on the head\nRocky makes a specific animation and sound when hit in the head and torpor is applied\nWeapons: Catapult Turret, Rocket Launcher, Rocket Turret or Primitive\nCannon\nPlayer number: 3-5";
 pl: "";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Kibble: {1} / Sulfur: {2} / Clay: {3} / Stone: {4}";
-pl: "";
+pl: "Wymagane przywiązanie: {0} \nDostarczone Przywiązanie: Przysmak: {1} / Siarka: {2} / Glina: {3} / Kamień: {4}";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Plant Y Seeds: {1} / Mejoberry: {2} / Veggie: {3} / other Berries: {4}";
-pl: "";
+pl: "Wymagane przywiązanie: {0} \nDostarczone Przywiązanie: Nasiona Gatunku Y: {1} / Mejogoda: {2} / Warzywa: {3} / inne Jagody: {4}";
 
 en: "type: Carnivore";
-pl: "";
+pl: "typ: Mięsożerny";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Kibble: {1} / Prime: {2} / Meat: {3} / Cooked Prime: {4} / Prime(Fish): {5} / Meat(Fish): {6}";
-pl: "";
+pl: "Wymagane przywiązanie: {0} \nDostarczone Przywiązanie: Przysmak: {1} / Prastare: {2} / Mięso: {3} / Gotowane Prastare: {4} / Prastare(Ryb): {5} / Mięso(Ryb): {6}";
 
 en: "type: Omnivore";
-pl: "";
+pl: "typ: Wszystkożerny";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Kibble: {1} / Chitin: {2}";
-pl: "";
+pl: "Wymagane przywiązanie: {0} \nDostarczone Przywiązanie: Przysmak: {1} / Chityna: {2}";
 
 en: "type: Carrion Eater";
-pl: "";
+pl: "typ: Padlinożerny";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Spoiled Meat: {1}";
-pl: "";
+pl: "Wymagane przywiązanie: {0} \nDostarczone Przywiązanie: Zepsute Mięso: {1}";
 
 en: "type: Egg eater";
-pl: "";
+pl: "typ: Jajożerny";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Giga Egg: {1} / Quetzal Egg: {2} / Rex Egg: {3} / Spino Egg: {4} / Bronto Egg: {5} / Carno Egg: {6}";
-pl: "";
+pl: "Wymagane przywiązanie: {0} \nDostarczone Przywiązanie: Jajo Gigantozaura: {1} / Jajo Quetzala: {2} / Jajo Rexa: {3} / Jajo Spinozaura: {4} / Jajo Bronto: {5} / Jajo Carno: {6}";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Rare Mushroom: {1} / Plant Species X Seed: {2}";
-pl: "";
+pl: "Wymagane przywiązanie: {0} \nDostarczone Przywiązanie: Rzadki Grzyb: {1} / Nasiono Gatunku X: {2}";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Large Animal Feces: {1} / Medium Animal Feces: {2} /  Small Animal Feces: {3}";
-pl: "";
+pl: "Wymagane przywiązanie: {0} \nDostarczone Przywiązanie: Duże odcody zwierzęce: {1} / Średnie odchody zwierzęce: {2} / Małe odchody zwierzęce: {3}";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Angler Gel: {1}";
-pl: "";
+pl: "Wymagane przywiązanie: {0} \nDostarczone Przywiązanie: Żabnicożel: {1}";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Death Worm Spike: {1}";
-pl: "";
+pl: "Wymagane przywiązanie: {0} \nDostarczone Przywiązanie: Kolec Death Worma: {1}";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Broth of Enlightenment: {1} / Spoiled Meat: {2}";
-pl: "";
+pl: "Wymagane przywiązanie: {0} \nDostarczone Przywiązanie: Wywar Oświecenia: {1} / Zepsute Mięso: {2}";
 
 en: "Affinity Needed: {0} \nAffinity Supplied: Rare Flower: {1} / Mejoberry: {2} / other Berries: {3}";
-pl: "";
+pl: "Wymagane przywiązanie: {0} \nDostarczone Przywiązanie: Rzadki Kwiat: {1} / Mejogoda: {2} / inne Jagody: {3}";
 
