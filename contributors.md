@@ -17,3 +17,6 @@
 
 ## Spanish Translations
 1. Marcelo R. Anton (xSmil3) and Josue Martinez (Ezio93)
+
+## Polish Translations
+1. yorunea
