@@ -82,7 +82,7 @@ en: "add/remove food (touch the food icon)";
 da: "";
 
 en: "Saddle";
-da: "";
+da: ""; 
 
 en: "Platform Saddle";
 da: "";
