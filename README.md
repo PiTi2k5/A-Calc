@@ -26,6 +26,7 @@ Want more languages? Send me a email info@a-calc.de
 # Languages Phase 1 Core Features
 | Country identifier  | Language           | Status inApp | Status App description  |
 | ------------- |:-------------:| -----:| -----:|
+| da      | Danish | 0 % | 0 % |
 | de      | German | 100 % | 100 % |
 | en      | English      |   100 % | 100 % |
 | es | Spanish      |    100 % | 100 % |
