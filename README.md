@@ -31,7 +31,7 @@ Want more languages? Send me a email info@a-calc.de
 | en      | English      |   100 % | 100 % |
 | es | Spanish      |    100 % | 100 % |
 | fr | French      |    100 % | 100 % |
-| it | Italian      |    100 % | 0 % |
+| it | Italian      |    100 % | 100 % |
 | pl | Polish      |    100 % | 0 % |
 | pt | Portuguese      |    0 % | 0 % |
 | ru | Russian      |    100 % | 100 % |
