@@ -1,5 +1,5 @@
 ﻿A-Calc www.a-calc.de Community translations
-* Make sure to change the EN translations between the two quotations marks
+* Translate EN to your right native language between the two quotations marks
 * include all special characters e.g. {0} | {1} | {2}, spaces or \n
 
 
