@@ -1,31 +1,24 @@
 ﻿A-Calc www.a-calc.de Community translations
 
-The unofficial FAN project app A-Guide | A-Calc for the game Ark: Survival Evolved is a taming calculator and companion app guide for the ingame dino tame prozess. He calculated the required time and resources necessary for the dino taming. You can look at the effectiveness, the associated expected bonus level and extended creature or dino stats for each type of food. Plan your next taming with unique calculations, exact values and more gaming fun with A-Guide. Survive now in ARK dangerous creature world. Good luck and have fun for your next dinosaur catch.
 
-Pro Version (AdFree): https://play.google.com/store/apps/details?id=com.rssolution.acalcpro
+A-Calc Ark Tools: ARK Survival Evolved
 
-FEATURES:
-- Taming calculator and guide for every creature or dinosaur in Ark: Survival Evolved and Ark: Scorched Earth
-- always newest ARK Dev Kit and personal testing data
-- compatible calculations for PC, Xbox One and PS4 Version from Ark: Survival Evolved
-- calculated tamed time for different types of food and food quantity
-- Torpor details and calculations e.g. required narcotics, narcoberries and Bio Toxin
-- Knockout details for each dinosaur
-- extra taming details, effectiveness bonus level, max level info and XP for Killing
-- resources gathering Top 3 for each dino or creature
-- Torpor timer and starve calculated timer for starve tame
-- Recipes and dyes
-- Engram calculations
-- Admin commands with spawn codes for dinos and items
-- Kibble recipes overview and info directly by dino selection
-- Saddle recipes and info
-- Custom map for Ark: Survival Evolved of The Island, The Center an Scorched Earth by A-Calc
-- Official ARK Wiki link for each dinosaur
-- Breeding times with calculator and multipliers
-- Wild dino stats with calculator and overview
-- Carryable by: Overview and directly by dino selection
-- Patchnotes section for PC, Xbox One and PS4
-- dino tame and foodrate multipliers for unofficial Ark: Survival Evolved Server - e.g. "0.5" / "2" / "5" / "0.25"
-- settings are saved automatically (multipliers, level, weapon damage, melee damage, language switch etc.)
-- Multi language GUI - more languages will come: you can switch manually between english, german, russian, spanish, italian and french
-- custom calculator and unique return calculations: add and remove food via touch interaction or manually input
+Are you a fan of ARK Survival Evolved? If your answer is yes, then this unofficial taming calculator and companion app guide is a must-have for you, as it offers a Ark taming calculator to let you know how much resources and time you need for taming dinosaurs and other creatures in the game. This unofficial companion app for ARK Survival Evolved delivers everything you should expect from such wiki and guide apps, and it even sets the bar to a higher level by offering taming and engram calculator, Ark Maps, admin commands (cheats), dino stats, recipes, and a lot more.
+
+No matter you play ARK Survival Evolved on your PC, Xbox One or PS4, we've got you taming tools covered. Simply download A-Calc Taming Calculator for free, select your desired language and leave the rest to taming calculator features.
+
+A-Calc Taming Calculator Main Features at a Glance:
+• Taming calculator and guide for every tameable creature or dinosaur in ARK Survival Evolved, Ark: Scorched Earth and Ark: Aberration
+• Compatible with Ark Survival game for PC, Xbox One and Play Station 4 (PS4)
+• Dino taming and foodrate multipliers for unofficial ARK Survival Evolved servers - e.g. "0.5" / "2" / "5" / "0.25"
+• An all-in-one cross-platform Ark wiki guide & taming calculator
+• Always newest ARK Dev Kit data and personal testing data
+• Knockout details and calculations
+• Torpor timer and starve calculated timer for starve taming
+• Dino stats, dino trainee level calculation and Ark Wiki links
+• Overviews for dinos and creatures: carryable, dmg, stun and fits through
+• Admin commands (cheats), engrams, breeding times, 3rd party breeding calculator, recipes and dyes, patchnotes for PC, Xbox One and PS4
+• Ark Maps (Custom maps for the survivor evolved game – created by A-Calc - ARK Community Taming Tools)
+• Available in different languages: English, Spain, French, Italian, Russian, Polish and German
+• Clean and neat design with fresh and intuitive interface
+• Free with no in-app purchase item
