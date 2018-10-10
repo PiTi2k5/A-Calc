@@ -18,7 +18,7 @@ Important:
 * Translate EN to your right native language between the two quotations marks
 * include all special characters e.g. {0} | {1} | {2}, spaces or \n
 
-Don't forget to add your username or project website that you want to have added to the contributors.
+Don't forget to add your username or project website that you want to have added to the contributors. Send me a email info@a-calc.de for your free A-Calc Pro Version on all platforms. 
 
 Want more languages? Send me a email info@a-calc.de
 
