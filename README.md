@@ -15,7 +15,7 @@ When you are happy with your translations, open a [pull request](https://help.gi
 Option 3: download the desired file, make your translations and send me a email info@a-calc.de
 
 Important:
-* Make sure to add your translations between the two empty quotations marks
+* Translate EN to your right native language between the two quotations marks
 * include all special characters e.g. {0} | {1} | {2}, spaces or \n
 
 Don't forget to add your username or project website that you want to have added to the contributors.
