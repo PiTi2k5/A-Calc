@@ -221,7 +221,7 @@ case "da":
                     { 
                         case "Pflanzenfresser":
                             textViewArt = "type: Herbivore";
-                            if (DinoName == "Selected Dino is Rock Elemental")
+                            if (DinoName == "Selected Dino is Rock Elemental") //this line doesnt need a translation
                             {
                                 textViewArt = "type: Minerals Eater";
                                 MessageDialog = "Important: Immune to any sort of narcotic effects\nKO Strategy: He has a weak spot on the head\nRocky makes a specific animation and sound when hit in the head and torpor is applied\nWeapons: Catapult Turret, Rocket Launcher, Rocket Turret or Primitive\nCannon\nPlayer number: 3-5";
@@ -229,11 +229,11 @@ case "da":
                             break;
                         case "Fleischfresser":
                             textViewArt = "type: Carnivore";
-                            if (DinoName == "Selected Dino is Direbear")
+                            if (DinoName == "Selected Dino is Direbear") //this line doesnt need a translation
                             {
                                 textViewArt = "type: Omnivore";
                             }
-                            if (DinoName == "Selected Dino is Rock Drake")
+                            if (DinoName == "Selected Dino is Rock Drake") //this line doesnt need a translation
                             {
                                 wyvernInfo1 = "Important: Adult Rock Drake can not be tamed.\nIn order to get a tamed Rock Drake, the player\nmust steal and hatch a Rock Drake Egg.";
                                 wyvernInfo3 = "feed the Rock Drake with Nameless Venom\nKill Nameless for Nameless Venom drop";
@@ -247,7 +247,7 @@ case "da":
                             break;
                         case "Mushfresser":
                             textViewArt = "type: Herbivore";
-                            if (DinoName == "Selected Dino is Bulbdog")
+                            if (DinoName == "Selected Dino is Bulbdog") //this line doesnt need a translation
                             {
                                 textViewArt = "type: Omnivore";
                             }
@@ -260,7 +260,7 @@ case "da":
                             break;
                         case "Kochfresser":
                             textViewArt = "type: Carrion Eater";
-                            if (DinoName == "Selected Dino is Karkinos")
+                            if (DinoName == "Selected Dino is Karkinos") //this line doesnt need a translation
                             {
                                 MessageDialog = "Important: Immune to any sort of narcotic effects\nKO Strategy: He has a weak spot on the head\nKarkinos makes a specific animation and sound when hit in the head and torpor is applied\nWeapons: Catapult\nPlayer number: 3-5";
                             }
