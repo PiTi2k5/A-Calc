@@ -33,5 +33,5 @@ Want more languages? Send me a email info@a-calc.de
 | fr | French      |    100 % | 100 % |
 | it | Italian      |    100 % | 100 % |
 | pl | Polish      |    100 % | 0 % |
-| pt-br | Portuguese-Brazilian      |    0 % | 0 % |
+| pt-br | Portuguese-Brazilian      |    100 % (next update) | 0 % |
 | ru | Russian      |    100 % | 100 % |
