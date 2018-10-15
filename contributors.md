@@ -20,3 +20,6 @@
 
 ## Polish Translations
 1. yorunea
+
+## Portuguese-Brazilian Translations
+1. sponsered by [A-Calc](http://www.a-calc.de)
