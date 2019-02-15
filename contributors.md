@@ -1,13 +1,13 @@
 # Contributors - Ark
 
 ## English Translations
-1. [A-Calc](http://www.a-calc.de)
+1. sponsered by [A-Calc](http://www.a-calc.de)
 
 ## French Translations
 1. Manzur-Hussein R.
 
 ## German Translations
-1. [A-Calc](http://www.a-calc.de)
+1. sponsered by [A-Calc](http://www.a-calc.de)
 
 ## Italian Translations
 1. nomis23 - https://arksurvivalevolved.zone/
@@ -28,25 +28,25 @@
 # Contributors - Atlas
 
 ## English Translations
-1. [A-Calc](http://www.a-calc.de)
+1. sponsered by [A-Calc](http://www.a-calc.de)
 
 ## French Translations
-1. [A-Calc](http://www.a-calc.de)
+1. sponsered by [A-Calc](http://www.a-calc.de)
 
 ## German Translations
-1. [A-Calc](http://www.a-calc.de)
+1. sponsered by [A-Calc](http://www.a-calc.de)
 
 ## Italian Translations
-1. [A-Calc](http://www.a-calc.de)
+1. sponsered by [A-Calc](http://www.a-calc.de)
 
 ## Russian Translations
-1. [A-Calc](http://www.a-calc.de)
+1. sponsered by [A-Calc](http://www.a-calc.de)
 
 ## Spanish Translations
-1. [A-Calc](http://www.a-calc.de)
+1. sponsered by [A-Calc](http://www.a-calc.de)
 
 ## Polish Translations
-1. [A-Calc](http://www.a-calc.de)
+1. sponsered by [A-Calc](http://www.a-calc.de)
 
 ## Portuguese-Brazilian Translations
-1. [A-Calc](http://www.a-calc.de)
+1. sponsered by [A-Calc](http://www.a-calc.de)
