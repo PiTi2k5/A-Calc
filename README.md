@@ -1,5 +1,5 @@
 # A-Calc
-Translations for [A-Calc: Ark Survival Evolved Taming Calc &amp; Companion App](http://www.a-calc.de)
+Translations for [A-Calc: Ark Survival Evolved Taming Calc &amp; Companion App](http://www.a-calc.de)<br>
 Translations for [A-Calc Taming & Companion Tools: Atlas Pirate MMO](http://www.a-calc.de/homeatlas.html)
 
 # How to Contribute
