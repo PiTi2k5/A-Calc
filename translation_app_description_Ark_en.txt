@@ -1,14 +1,12 @@
 ﻿A-Calc www.a-calc.de Community translations
 
 
-A-Calc Ark Tools: ARK Survival Evolved
-
 Are you a fan of ARK Survival Evolved? If your answer is yes, then this unofficial taming calculator and companion app guide is a must-have for you, as it offers a Ark taming calculator to let you know how much resources and time you need for taming dinosaurs and other creatures in the game. This unofficial companion app for ARK Survival Evolved delivers everything you should expect from such wiki and guide apps, and it even sets the bar to a higher level by offering taming and engram calculator, Ark Maps, admin commands (cheats), dino stats, recipes, and a lot more.
 
 No matter you play ARK Survival Evolved on your PC, Xbox One or PS4, we've got you taming tools covered. Simply download A-Calc Taming Calculator for free, select your desired language and leave the rest to taming calculator features.
 
 A-Calc Taming Calculator Main Features at a Glance:
-• Taming calculator and guide for every tameable creature or dinosaur in ARK Survival Evolved, Ark: Scorched Earth and Ark: Aberration
+• Taming calculator and guide for every tameable creature or dinosaur in ARK Survival Evolved, Ark: Scorched Earth, Ark: Aberration and ARK: Extinction
 • Compatible with Ark Survival game for PC, Xbox One and Play Station 4 (PS4)
 • Dino taming and foodrate multipliers for unofficial ARK Survival Evolved servers - e.g. "0.5" / "2" / "5" / "0.25"
 • An all-in-one cross-platform Ark wiki guide & taming calculator
@@ -19,6 +17,8 @@ A-Calc Taming Calculator Main Features at a Glance:
 • Overviews for dinos and creatures: carryable, dmg, stun and fits through
 • Admin commands (cheats), engrams, breeding times, 3rd party breeding calculator, recipes and dyes, patchnotes for PC, Xbox One and PS4
 • Ark Maps (Custom maps for the survivor evolved game – created by A-Calc - ARK Community Taming Tools)
-• Available in different languages: English, Spain, French, Italian, Russian, Polish and German
+• Available in different languages: English, Spain, French, Italian, Russian, Polish, German and Portuguese-Brazilian
 • Clean and neat design with fresh and intuitive interface
 • Free with no in-app purchase item
+
+Pro version (AdFree): https://play.google.com/store/apps/details?id=com.rssolution.acalcpro
