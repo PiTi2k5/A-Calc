@@ -1,52 +1,52 @@
 # Contributors - Ark
 
-## English Translations - Ark
+## English Translations
 1. [A-Calc](http://www.a-calc.de)
 
-## French Translations - Ark
+## French Translations
 1. Manzur-Hussein R.
 
-## German Translations - Ark
+## German Translations
 1. [A-Calc](http://www.a-calc.de)
 
-## Italian Translations - Ark
+## Italian Translations
 1. nomis23 - https://arksurvivalevolved.zone/
 
-## Russian Translations - Ark
+## Russian Translations
 1. InVeRnyako
 
-## Spanish Translations - Ark
+## Spanish Translations
 1. Marcelo R. Anton (xSmil3) and Josue Martinez (Ezio93)
 
-## Polish Translations - Ark
+## Polish Translations
 1. yorunea
 
-## Portuguese-Brazilian Translations - Ark
+## Portuguese-Brazilian Translations
 1. sponsered by [A-Calc](http://www.a-calc.de)
 
 
 # Contributors - Atlas
 
-## English Translations - Atlas
+## English Translations
 1. [A-Calc](http://www.a-calc.de)
 
-## French Translations - Atlas
+## French Translations
 1. [A-Calc](http://www.a-calc.de)
 
-## German Translations - Atlas
+## German Translations
 1. [A-Calc](http://www.a-calc.de)
 
-## Italian Translations - Atlas
+## Italian Translations
 1. [A-Calc](http://www.a-calc.de)
 
-## Russian Translations - Atlas
+## Russian Translations
 1. [A-Calc](http://www.a-calc.de)
 
-## Spanish Translations - Atlas
+## Spanish Translations
 1. [A-Calc](http://www.a-calc.de)
 
-## Polish Translations - Atlas
+## Polish Translations
 1. [A-Calc](http://www.a-calc.de)
 
-## Portuguese-Brazilian Translations - Atlas
+## Portuguese-Brazilian Translations
 1. [A-Calc](http://www.a-calc.de)
