@@ -1,5 +1,6 @@
 # A-Calc
 Translations for [A-Calc: Ark Survival Evolved Taming Calc &amp; Companion App](http://www.a-calc.de)
+Translations for [A-Calc Taming & Companion Tools: Atlas Pirate MMO](http://www.a-calc.de/homeatlas.html)
 
 # How to Contribute
 There are translations files for each language. Look at the "country identifier" at the end of the file names.
@@ -23,7 +24,7 @@ Don't forget to add your username or project website that you want to have added
 Want more languages? Send me a email info@a-calc.de
 
 
-# Languages Phase 1 Core Features
+# Languages Phase 1 Core Features - Ark
 | Country identifier  | Language           | Status inApp | Status App description  |
 | ------------- |:-------------:| -----:| -----:|
 | de      | German | 100 % | 100 % |
@@ -34,3 +35,15 @@ Want more languages? Send me a email info@a-calc.de
 | pl | Polish      |    100 % | 0 % |
 | pt-br | Portuguese-Brazilian      |    100 % | 100 % |
 | ru | Russian      |    100 % | 100 % |
+
+# Languages Phase 1 Core Features - Atlas
+| Country identifier  | Language           | Status inApp | Status App description  |
+| ------------- |:-------------:| -----:| -----:|
+| de      | German | 100 % | 0 % |
+| en      | English      |   100 % | 100 % |
+| es | Spanish      |    100 % | 0 % |
+| fr | French      |    100 % | 0 % |
+| it | Italian      |    100 % | 0 % |
+| pl | Polish      |    100 % | 0 % |
+| pt-br | Portuguese-Brazilian      |    100 % | 0 % |
+| ru | Russian      |    100 % | 0 % |
