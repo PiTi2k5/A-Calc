@@ -21,4 +21,4 @@ A-Calc Taming Calculator Main Features at a Glance:
 • Clean and neat design with fresh and intuitive interface
 • Free with no in-app purchase item
 
-Pro version (AdFree): https://play.google.com/store/apps/details?id=com.rssolution.acalcpro
+Pro version (AdFree): https://play.google.com/store/apps/details?id=com.rssolution.acalcpro 
