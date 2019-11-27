@@ -1,21 +1,23 @@
 ﻿A-Calc www.a-calc.de Community translations
 
 
-Are you a fan of ARK Survival Evolved? If your answer is yes, then this unofficial taming calculator and companion app guide is a must-have for you, as it offers an Ark taming calculator to let you know how much resources and time you need for domesticate dinosaurs and other powerful creatures in the game. This unofficial companion app delivers everything you should expect from such wiki and guide apps, and it even sets the bar to a higher level by offering data from DevKit and personal testing data, engram calculations and planning, maps, admin commands (cheats), dino stats, recipes, and a lot more.
+Are you a fan of Atlas Pirate MMO game? If your answer is yes, then this unofficial taming calculator and companion app guide is a must-have for you, as it offers a Atlas taming calculator to let you know how much resources and time you need for taming animals and other mythical creatures in the game. This unofficial companion app for Atlas Pirate MMO delivers everything you should expect from such wiki and guide apps, and it even sets the bar to a higher level by offering taming and engram calculator, maps with spawns, admin commands (cheats), animal stats, recipes, and a lot more.
 
-No matter you play ARK Survival Evolved on your PC, Xbox One or PS4, we've got you taming tools covered. Simply download A-Calc for free, select your desired language and leave the rest to taming calculator features.
+Simply download A-Calc Taming & Companion Tools for free and give it a try.
 
-A-Calc Taming Calculator Main Features at a Glance:
-• Various calculators and guides for every tameable creature or dinosaur in ARK Survival Evolved, Scorched Earth, Aberration, Extinction and the new DLC Genesis
-• Dino taming and foodrate multipliers for unofficial servers - e.g. "0.5" / "2" / "5" / "0.25"
-• An all-in-one cross-platform wiki guide & companion app
-• Always newest ARK Dev Kit data and personal testing data
+
+A-Calc Taming & Companion Tools Main Features at a Glance:
+• Taming calculator and guide for every tameable animal or mythical creature in Atlas and all coming DLCs
+• Animal taming and feeding intervalrate multipliers for unofficial servers - e.g. "0.5" / "2" / "5" / "0.25"
+• An all-in-one cross-platform wiki guide, taming calculator and companion app
+• Always newest Atlas Dev Kit data and personal testing data
 • Knockout details and calculations
-• Torpor timer and starve calculated timer for starve taming
-• Dino stats, dino trainee level calculation and Wiki links for extended informations
-• Overviews for dinos and creatures: carryable, dmg, stun and fits through
-• Admin commands (cheats), engrams, breeding times, breeding calculator, recipes and dyes, patchnotes for PC, Xbox One and PS4
-• Ark Maps for cave locations, creature spawns and resources
+• Maps for resources, spawns and claiming overview
+• Overviews with useful informations and Wiki links
+• Engrams (skills/feats), recipes and dyes, patchnotes
+• Admin Commands (cheats)
+• Breeding times
 • Available in different languages: English, Spain, French, Italian, Russian, Polish, German and Portuguese-Brazilian
 • Clean and neat design with fresh and intuitive interface
+
 
