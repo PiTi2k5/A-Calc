@@ -1,24 +1,21 @@
 ﻿A-Calc www.a-calc.de Community translations
 
 
-Are you a fan of ARK Survival Evolved? If your answer is yes, then this unofficial taming calculator and companion app guide is a must-have for you, as it offers a Ark taming calculator to let you know how much resources and time you need for taming dinosaurs and other creatures in the game. This unofficial companion app for ARK Survival Evolved delivers everything you should expect from such wiki and guide apps, and it even sets the bar to a higher level by offering taming and engram calculator, Ark Maps, admin commands (cheats), dino stats, recipes, and a lot more.
+Are you a fan of ARK Survival Evolved? If your answer is yes, then this unofficial taming calculator and companion app guide is a must-have for you, as it offers an Ark taming calculator to let you know how much resources and time you need for domesticate dinosaurs and other powerful creatures in the game. This unofficial companion app delivers everything you should expect from such wiki and guide apps, and it even sets the bar to a higher level by offering data from DevKit and personal testing data, engram calculations and planning, maps, admin commands (cheats), dino stats, recipes, and a lot more.
 
-No matter you play ARK Survival Evolved on your PC, Xbox One or PS4, we've got you taming tools covered. Simply download A-Calc Taming Calculator for free, select your desired language and leave the rest to taming calculator features.
+No matter you play ARK Survival Evolved on your PC, Xbox One or PS4, we've got you taming tools covered. Simply download A-Calc for free, select your desired language and leave the rest to taming calculator features.
 
 A-Calc Taming Calculator Main Features at a Glance:
-• Taming calculator and guide for every tameable creature or dinosaur in ARK Survival Evolved, Ark: Scorched Earth, Ark: Aberration and ARK: Extinction
-• Compatible with Ark Survival game for PC, Xbox One and Play Station 4 (PS4)
-• Dino taming and foodrate multipliers for unofficial ARK Survival Evolved servers - e.g. "0.5" / "2" / "5" / "0.25"
-• An all-in-one cross-platform Ark wiki guide & taming calculator
+• Various calculators and guides for every tameable creature or dinosaur in ARK Survival Evolved, Scorched Earth, Aberration, Extinction and the new DLC Genesis
+• Dino taming and foodrate multipliers for unofficial servers - e.g. "0.5" / "2" / "5" / "0.25"
+• An all-in-one cross-platform wiki guide & companion app
 • Always newest ARK Dev Kit data and personal testing data
 • Knockout details and calculations
 • Torpor timer and starve calculated timer for starve taming
-• Dino stats, dino trainee level calculation and Ark Wiki links
+• Dino stats, dino trainee level calculation and Wiki links for extended informations
 • Overviews for dinos and creatures: carryable, dmg, stun and fits through
-• Admin commands (cheats), engrams, breeding times, 3rd party breeding calculator, recipes and dyes, patchnotes for PC, Xbox One and PS4
-• Ark Maps (Custom maps for the survivor evolved game – created by A-Calc - ARK Community Taming Tools)
+• Admin commands (cheats), engrams, breeding times, breeding calculator, recipes and dyes, patchnotes for PC, Xbox One and PS4
+• Ark Maps for cave locations, creature spawns and resources
 • Available in different languages: English, Spain, French, Italian, Russian, Polish, German and Portuguese-Brazilian
 • Clean and neat design with fresh and intuitive interface
-• Free with no in-app purchase item
 
-Pro version (AdFree): https://play.google.com/store/apps/details?id=com.rssolution.acalcpro 
