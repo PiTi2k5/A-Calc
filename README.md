@@ -2,6 +2,9 @@
 Translations for [A-Calc: Ark Survival Evolved Taming Calc &amp; Companion App](http://www.a-calc.de)<br>
 Translations for [A-Calc Taming & Companion Tools: Atlas Pirate MMO](http://www.a-calc.de/homeatlas.html)
 
+Admin Commands for [A-Calc: Ark Survival Evolved Taming Calc &amp; Companion App](https://github.com/PiTi2k5/A-Calc-Taming-Calculator-Admin-commands)<br>
+Admin Commands for [A-Calc Taming & Companion Tools: Atlas Pirate MMO](https://github.com/PiTi2k5/A-Calc-Taming-Calculator-Admin-commands)
+
 # How to Contribute
 There are translations files for each language. Look at the "country identifier" at the end of the file names.
 
