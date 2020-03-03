@@ -1,0 +1,107 @@
+A-Calc www.a-calc.de Community translations
+* Translate EN to your right native language between the two quotations marks
+* include all special characters e.g. {0} | {1} | {2}, spaces or \n
+
+
+
+
+case "en":
+                    textViewKnock = "--Repeat-- Bring always more Bolas and Food\nAnimal must be damaged to below 20%\nBola will break every ";
+                    buttonRecipes = "Recipes";
+                    TotalTime2 = "Total time (+20 sec fight time until new Bola): ";
+                    passiveTame = "Passive taming (Walk up to it and feed it)";
+                    TamingSkill = "Taming Proficiency";
+                    TamingMusicBuff = "Accordion: Of Sea and Sails";
+                    TamingKillBuff = "Quest 'Sperm Whale Killer'";
+                    TamingSettings = "Open Taming Settings \u2699";
+
+                    Taming = "Taming";
+                    Breeding = "Breeding";
+                    LevelText = "Level:";
+                    DinoChoice = "Choose a animal:";//
+                    TotalTime = "Total feeding tame time: ";//
+                    textViewfoodrate = "Feeding Interval Multi x";//
+                    textViewtamingmulti = "Taming Multi x";
+                    textViewAddRemoveFood = "add/remove food (touch the food icon)";
+                    Name_Saddle = "Saddle";
+                    Name_PlatformSaddle = "Cargo Saddle";//
+                    
+                    baby_time = "baby";
+                    juvenile_time = "juvenile";
+                    adolescent = "adolescent";
+                    total_maturation = "Total Maturation: ";
+                    total_breeding = "Total Breeding Time: ";
+                    total_incubation = "Incubation Time: ";
+                    total_pregnancy = "Gestation Time: ";
+                    temprange = "Temperature: ";
+                    hatchmultitext = "hatch Multi x";
+                    maturemultitext = "mature Multi x";
+
+                    buttonWiki = "Open official Atlas Wiki Page"; //
+                    buttonCarryable = "Open Overviews";
+                    buttonRate = "Rate A-Calc"; //
+                    Bewerten = "Please rate";
+                    XPtext = "XP for Killing: ";
+                    AutoGathering = "Gathers autonomously(wandering): ";
+                    textViewGathering = "resources gathering Top3";
+                    FavorsFood = "Favors Food: ";
+                    TotalFood = "Feeding interval: ";//
+                    FoodRate = "Food rate: ";
+                    Effectiveness = "Effectiveness: ";
+                    LvLAfter = "LvL after taming: ";
+                    MaxLvL = "Max LvL: ";
+                    BonusLvL = "Bonus LvL";
+                    XPLvL = "XP LvL";
+                    
+                    AffinityCustomCalc = "Affinity Needed: {0} \nAffinity Supplied: {1}";
+                    
+                    PatchNotes = "Patch Notes";
+                    ArkMap = "Atlas Maps"; //
+                    Engrams = "Engrams | Skills"; //
+                    Commands = "Admin Commands";
+                    
+                    Reminder = "Don´t remind me";
+                    if (hideSaddle == true)
+                    {
+                        textViewSaddle = "Saddle - show";
+                    }
+                    else
+                    {
+                        textViewSaddle = "Saddle - hide";
+                    }
+
+                    if (hide == true)
+                    {
+                        textViewsum = "Details - show";
+                    }
+                    else
+                    {
+                        textViewsum = "Details - hide";
+                    }
+
+                    if (hideBreeding == true)
+                    {
+                        textViewtimesofbreeding = "Times for Breeding - show";
+                    }
+                    else
+                    {
+                        textViewtimesofbreeding = "Times for Breeding - hide";
+                    }
+                    
+                    MoreTools = "More Tools";
+                    switch (Art)
+                    {
+                        case "Pflanzenfresser":
+                            textViewArt = "type: Herbivorous";
+                            break;
+                        case "Fleischfresser":
+                            textViewArt = "type: Carnivorous";
+                            break;
+                        case "Aasfresser":
+                            textViewArt = "type: Carrion Feeder";
+                            break;
+                        case "Allesfresser":
+                            textViewArt = "type: Omnivorous";
+                            break;
+                    }
+                    break;
