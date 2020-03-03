@@ -20,4 +20,3 @@ A-Calc Taming & Companion Tools Main Features at a Glance:
 • Available in different languages: English, Spain, French, Italian, Russian, Polish, German and Portuguese-Brazilian
 • Clean and neat design with fresh and intuitive interface
 
-
