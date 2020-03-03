@@ -5,6 +5,13 @@ A-Calc www.a-calc.de Community translations
 
 
 
+A-Calc www.a-calc.de Community translations
+* Translate EN to your right native language between the two quotations marks
+* include all special characters e.g. {0} | {1} | {2}, spaces or \n
+
+
+
+
 case "en":
                     TamingSettings = "Open Taming Settings \u2699";
                     PicChangeTip = "switch between pictures (click on picture)";
@@ -40,52 +47,8 @@ case "en":
                     textViewAddRemoveFood = "add/remove food (touch the food icon)";
                     Name_Saddle = "Saddle";
                     Name_PlatformSaddle = "Platform Saddle";
-                    Name_Mejo = "Mejoberry";
-                    Name_Fiber = "Fiber";
-                    Name_Egg = " Egg";
-                    Name_EggFerti = " Fertilized Egg";
-                    Name_Longrass = "Longrass";
-                    Name_Rockarrot = "Rockarrot";
-                    Name_Citronal = "Citronal";
-                    Name_Savoroot = "Savoroot";
-                    Name_PrimeJerky = "Prime Meat Jerky";
-                    Name_CookedJerky = "Cooked Meat Jerky";
-                    Name_CookedMeat = "Cooked Meat";
-                    Name_CookedFishMeat = "Cooked Fish Meat";
-                    Name_CookedPrimeFish = "Cooked Prime Fish Meat";
-                    Name_CookedPrime = "Cooked Prime";
-                    Name_RawPrime = "Raw Prime Meat";
-                    Name_RawPrimeFish = "Raw Fish Prime";
-                    Name_RawMutton = "Raw Mutton";
-                    Name_CookedLamb = "Cooked Lamb Chop";
-                    Name_SpoiledMeat = "Spoiled Meat";
-                    Name_Water = "Waterskin";
                     Name_noKibble = "none";
-                    Name_Hide = "Hide";
-                    Name_Wood = "Wood";
-                    Name_Metal = "Metal Ingots";
                     Name_for = "for: ";
-                    Name_Pearls = "Silica Pearls";
-                    Name_Cement = "Cementing Paste";
-                    Name_Stone = "Stone";
-                    Name_MetalErz = "Metal";
-                    Name_Flint = "Flint";
-                    Name_Pelt = "Pelt";
-                    Name_Thatch = "Thatch";
-                    Name_RareFlower = "Rare Flower";
-                    Name_Clay = "Clay";
-                    Name_Kibble = " Kibble";
-                    Name_RareMushroom = "Rare Mushroom";
-                    Name_AnglerGel = "Angler Gel";
-                    Name_Feces = "Large Animal Feces";
-                    Name_Broth = "Broth of Enlightenment";
-                    Name_Obsidian = "Obsidian";
-                    Name_Chitin = "Chitin";
-                    Name_PlantY = "Plant Species Y Seed";
-                    Name_PlantX = "Plant Species X Seed";
-                    Name_PlantZ = "Plant Species Z Seed";
-                    Name_DeathWorm = "Death Worm Spike";
-                    Name_BeerJar = "Beer Jar";
                     baby_time = "baby";
                     juvenile_time = "juvenile";
                     adolescent = "adolescent";
@@ -103,7 +66,6 @@ case "en":
                     buttonKibble = "Recipes";
                     Bewerten = "Please rate";
                     XPtext = "XP for Killing: ";
-                    AutoGathering = "Gathers autonomously(wandering): ";
                     textViewGathering = "resources gathering Top3";
                     FavorsFood = "Favors Food: ";
                     TotalFood = "Total food: ";
@@ -126,10 +88,6 @@ case "en":
                     wyvernInfo2 = "There are three Wyvern egg variants\nWyvern Egg Fire, Wyvern Egg Lightning and \nWyvern Egg Poison.";
                     wyvernInfo3 = "feed the Wyvern baby all 2 hrs with Wyvern milk\nnarcotize and get the milk from female Wyvern or kill alphas\ngathering resources on the ground with default key [c]";
                     wyvernKibble = "Egg stealing";
-                    dungInfo = "(wandering and put in his inv) \nFeces --> Fertilizer/Oil";
-                    oviInfo = "faster egg production (wandering)";
-                    lystroInfo = "more XP for dinos (pet it)";
-                    BerryInfo = "Berries";
                     AffinityCustomCalc = "Affinity Needed: {0} \nAffinity Supplied: {1}";
                     Alarm = "Alarm @";
                     AlarmMin = "min";
@@ -202,22 +160,7 @@ case "en":
                         textViewtimesofbreeding = "Times for Breeding - hide";
                     }
                     //NEU
-                    Name_otherberries = "other Berries";
-                    Name_Veggie = "Veggie";
-                    Name_sulfur = "Sulfur";
-                    Name_cake = "Sweet Veggie Cake";
-                    Name_bugrep = "Bug Repellent";
-                    Name_firearrow = "Fire Arrow";
-                    Name_Flamethrower = "Flamethrower";
-                    Name_raw = "Meat";
-                    Name_rawfish = "Fish Meat";
-                    Name_BlackPearl = "Black Pearls";
-                    Name_Honey = "Honey";
                     Name_Mushroom = "Mushroom";
-                    Name_LargePoop = "Large Animal Feces";
-                    Name_MediumPoop = "Medium Animal Feces";
-                    Name_SmallPoop = "Small Animal Feces";
-                    Name_Petit = "Pet it";
                     MoreTools = "More Tools";
                     Singleplayer = "Singleplayer Options";
                     SwitchConsole = "Ark Switch Settings";
