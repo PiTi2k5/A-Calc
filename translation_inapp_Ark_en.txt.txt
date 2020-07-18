@@ -62,7 +62,7 @@ case "en":
                     textViewCarryable = "Carryable by";
                     buttonWiki = "Open official Ark Wiki Page";
                     buttonCarryable = "Open Overviews";
-                    buttonRate = "Rate A-Calc Pro";
+                    buttonRate = "Rate A-Calc";
                     buttonKibble = "Recipes";
                     Bewerten = "Please rate";
                     XPtext = "XP for Killing: ";
