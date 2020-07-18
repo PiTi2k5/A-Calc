@@ -220,7 +220,7 @@ case "en":
                     break;
                     
                    
-> Example tranlation in german
+#### Example tranlation in german
 
                    case "de":
                     TamingSettings = "Öffne Zähmung Einstellungen \u2699";
