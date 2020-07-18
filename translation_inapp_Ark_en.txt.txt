@@ -62,10 +62,11 @@ case "en":
                     textViewCarryable = "Carryable by";
                     buttonWiki = "Open official Ark Wiki Page";
                     buttonCarryable = "Open Overviews";
-                    buttonRate = "Rate A-Calc";
+                    buttonRate = "Rate A-Calc Pro";
                     buttonKibble = "Recipes";
                     Bewerten = "Please rate";
                     XPtext = "XP for Killing: ";
+                    AutoGathering = "Gathers autonomously(wandering): ";
                     textViewGathering = "resources gathering Top3";
                     FavorsFood = "Favors Food: ";
                     TotalFood = "Total food: ";
@@ -88,6 +89,9 @@ case "en":
                     wyvernInfo2 = "There are three Wyvern egg variants\nWyvern Egg Fire, Wyvern Egg Lightning and \nWyvern Egg Poison.";
                     wyvernInfo3 = "feed the Wyvern baby all 2 hrs with Wyvern milk\nnarcotize and get the milk from female Wyvern or kill alphas\ngathering resources on the ground with default key [c]";
                     wyvernKibble = "Egg stealing";
+                    dungInfo = "(wandering and put in his inv) \nFeces --> Fertilizer/Oil";
+                    oviInfo = "faster egg production (wandering)";
+                    lystroInfo = "more XP for dinos (pet it)";
                     AffinityCustomCalc = "Affinity Needed: {0} \nAffinity Supplied: {1}";
                     Alarm = "Alarm @";
                     AlarmMin = "min";
@@ -159,13 +163,13 @@ case "en":
                     {
                         textViewtimesofbreeding = "Times for Breeding - hide";
                     }
-                    //NEU
                     Name_Mushroom = "Mushroom";
                     MoreTools = "More Tools";
                     Singleplayer = "Singleplayer Options";
                     SwitchConsole = "Ark Switch Settings";
                     Mobile = "Ark Mobile Settings";
                     TamingBoost = "Soothing Balm";
+                    torporx = "X-Variant Creature";
                     switch (Art)
                     {
                         case "Pflanzenfresser":
