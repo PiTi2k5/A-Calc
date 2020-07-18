@@ -86,7 +86,7 @@ case "en":
                     titanoInfo4 = "after KO: Equip his saddle platform ---> tamed for 24 h";
                     titanoInfo5 = "Tamed Info: No XP gain, you can´t feed him (foodstat=tamed duration)\nequal stats for each lvl\nPrivat Server: Command Line ?AllowRaidDinoFeeding=true \nallow permanent taming";
                     wyvernInfo1 = "Important: Adult Wyverns can not be tamed.\nIn order to get a tamed Wyvern, the player\nmust steal and hatch a Wyvern Egg.";
-                    wyvernInfo2 = "There are three Wyvern egg variants\nWyvern Egg Fire, Wyvern Egg Lightning and \nWyvern Egg Poison.";
+                    wyvernInfo2 = "There are four Wyvern egg variants\nWyvern Egg Fire, Wyvern Egg Lightning \nWyvern Egg Poison and Wyvern Egg Ice.";
                     wyvernInfo3 = "feed the Wyvern baby all 2 hrs with Wyvern milk\nnarcotize and get the milk from female Wyvern or kill alphas\ngathering resources on the ground with default key [c]";
                     wyvernKibble = "Egg stealing";
                     dungInfo = "(wandering and put in his inv) \nFeces --> Fertilizer/Oil";
