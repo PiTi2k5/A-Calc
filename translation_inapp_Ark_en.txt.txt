@@ -1,13 +1,8 @@
 A-Calc www.a-calc.de Community translations
 * Translate EN to your right native language between the two quotations marks
 * include all special characters e.g. {0} | {1} | {2}, spaces or \n
-
-
-
-
-A-Calc www.a-calc.de Community translations
-* Translate EN to your right native language between the two quotations marks
-* include all special characters e.g. {0} | {1} | {2}, spaces or \n
+* dont translate switch cases for example: switch (Art) or case "Pflanzenfresser": lines 
+* dont translate conditions for example: if (DinoName == "Selected Dino is Rock Elemental") lines
 
 
 
@@ -222,4 +217,220 @@ case "en":
                             textViewArt = "type: Herbivore";
                             break;
                     }
+                    break;
+                    
+                   
+# Example tranlation in german
+
+                   case "de":
+                    TamingSettings = "Öffne Zähmung Einstellungen \u2699";
+                    PicChangeTip = "Zwischen Bildern wechseln (Bild anklicken)";
+                    Taming = "Zähmung";
+                    Breeding = "Zucht";
+                    LevelText = "Level:";
+                    DinoChoice = "Wähle ein Dino:";
+                    DinoChoiceStats = "Wähle ein Dino:";
+                    uselesspoints = "nutzlose Punkte";
+                    DinoStatsLegend = "Für jedes Dino LvL gibt es einen Stat Punkt \nLevel 150 ergibt 149 Stat Punkte (Dino LvL - 1) \nJeder Stat Punkt wird per Zufall verteilt, mit einer Chance von 1/7 (14.28%) auf jede Kathegorie \nDie Laufgeschwindigkeit kann bei wilden Dinos nicht erhöht werden, daher sind alle zugewiesenen Punkte verschwendet \nDer Betäubtheit Stat steigt jeden LvL statisch an \nBitte nur bei wilden Dinos benutzen, betäuben und checken ob sie gute Stats haben";
+                    TotalTime = "Gesamt Zähm Zeit: ";
+                    textViewfoodrate = "Futterrate Multi x";
+                    textViewtamingmulti = "Zähmen Multi x";
+                    textViewKnock = "K.o. - Körper Treffer Projektil (5sek Rotation)";
+                    textViewWeapon = "Waffen DMG";
+                    textViewMelee = "% Nahkampf DMG";
+                    CurrentTorpornull = "Dino aufgewacht";
+                    textViewCurrentTorpor = "Aktuelle Betäubtheit";
+                    BufferText = "Puffer: ";
+                    buttonGiveNacro = "Geben";
+                    MaxNacros = "Für Max: ";
+                    textViewNarcoGive = "Narkotika:";
+                    textViewTargetFood = "Futterwert Ziel:";
+                    textViewStarvedIn = "Ausgehungert in:";
+                    textViewCurrentFood = "Aktuelles Futter";
+                    textViewMaxFood = "Max Futter";
+                    CurrentFoodnull = "Dino füttern!!!";
+                    checkBoxNarcotic = "Beeren anstatt Narkotikum";
+                    checkBoxBioToxin = "BioToxin anstatt Narkotikum";
+                    checkBoxAscerbic = "Ascerbic anstatt Narkotikum";
+                    textViewFavoriteKibble = "Favorit Trockenfutter";
+                    textViewproducesKibble = "Produziert Trockenfutter";
+                    textViewAddRemoveFood = "Futter hinzufügen/entfernen (Futter Symbol berühren)";
+                    Name_Saddle = "Sattel";
+                    Name_PlatformSaddle = "Platform Sattel";
+                    Name_noKibble = "keine";
+                    Name_for = "für: ";
+                    baby_time = "Baby";
+                    juvenile_time = "Jugendlich";
+                    adolescent = "Heranwachsend";
+                    total_maturation = "Gesamt Wachstumsprozess: ";
+                    total_breeding = "Gesamt Zuchtzeit: ";
+                    total_incubation = "Inkubation Zeit: ";
+                    total_pregnancy = "Trächtigkeit Zeit: ";
+                    temprange = "Inkubation Temperatur: ";
+                    hatchmultitext = "brüten Multi x";
+                    maturemultitext = "wachsen Multi x";
+                    textViewCarryable = "Tragbar durch";
+                    buttonWiki = "Öffne offizielle Ark Wiki Seite";
+                    buttonCarryable = "Öffne Übersichten";
+                    buttonRate = "A-Calc Pro bewerten";
+                    buttonKibble = "Rezepte";
+                    Bewerten = "Bitte bewerte";
+                    XPtext = "Erfahrung für töten ";
+                    AutoGathering = "Autosammeln (wandern): ";
+                    textViewGathering = "Ressourcen Farmen Top3";
+                    FavorsFood = "Favorisiertes Futter: ";
+                    TotalFood = "Gesamt Futter: ";
+                    FoodRate = "Futterrate: ";
+                    Effectiveness = "Effektivität: ";
+                    LvLAfter = "LvL nach zähmen: ";
+                    MaxLvL = "Max LvL: ";
+                    BonusLvL = "Bonus LvL";
+                    XPLvL = "XP LvL";
+                    Torpor = "Betäubtheit Total: {0} / Rate: {1} \nZeit bis Betäubtheit versagt: {2} \nNachfüllzeit Narkos (Puffer): {3} \nNachfüllzeit Beeren (Puffer): {4} \nNachfüllzeit Bio Toxin (Puffer): {5} \nNachfüllzeit Ascerbic (Puffer): {6}";
+                    berrys = "Beeren";
+                    narcos = "Narkos";
+                    biotoxin = "BioToxin";
+                    titanoInfo1 = "Wichtig: Immun gegen jede Art von Betäubung\nDauer: nur 24 Std Echtzeit (keine permanente Zähmung)\nNur 3 können gleichzeitig existieren";
+                    titanoInfo2 = "KO Strategie: Er besitzt eine Schwachstelle am Kopf\nTitano macht eine spezielle Bewegung und Sound wenn man den Kopf \ngetroffen hat und die Betäubtheit steigt";
+                    titanoInfo3 = "Waffen: Katapult, Raketenwerfer, Raketen Turm oder \nprimitive Kanonen\nSpieleranzahl: 3-5";
+                    titanoInfo4 = "nach KO: Platform Sattel ausrüsten ---> gezähmt für 24 Std";
+                    titanoInfo5 = "Gezähmt Info: Kein XP Gewinn, man kann ihn nicht füttern \n(Futterstat=Gezähmt Dauer)\njedes lvl hat die gleichen Stats\nPrivat Server: Kommandozeile ?AllowRaidDinoFeeding=true \nbewirkt permanente Zähmung";
+                    wyvernInfo1 = "Wichtig: Ausgewachsene Wyverns können nicht gezähmt werden.\nDer Spieler muss ein Ei klauen und ausbrüten";
+                    wyvernInfo2 = "Es gibt 4 Varianten von Wyvern Eiern\nWyvern Feuer Ei, Wyvern Blitz Ei \nWyvern Gift Ei und Wyvern Eis Ei.";
+                    wyvernInfo3 = "Das Wyvern Baby ca. alle 2 Std mit Wyvernmilch füttern\nBetäube Weibliche Wyvern oder töte Alphas für Milch Dropps\nRessourcen werden mit Standardtaste [c] am Boden gefarmt";
+                    wyvernKibble = "Ei stehlen";
+                    dungInfo = "(Kot in Dung Beetle Inv und auf wandern) \nKacke --> Dünger/Öl";
+                    oviInfo = "schnellere Eierproduktion (wandern)";
+                    lystroInfo = "mehr XP für Dinos (kuscheln)";
+                    AffinityCustomCalc = "Affinität erforderlich: {0} \nAffinität erreicht: {1}";
+                    Alarm = "Alarm @";
+                    AlarmMin = "min";
+                    AlarmSet = "Setzen";
+                    Start = "Starten";
+                    Stop = "Stoppen";
+                    DinoStatsButton = "Dino Werte";
+                    PatchNotes = "Patch Notes";
+                    ArkMap = "Ark Karten";
+                    Engrams = "Skillbaum";
+                    Commands = "Admin Befehle";
+                    Stat_ = "Stat";
+                    Base_ = "Base";
+                    PerLvL_ = "Pro LvL \n(Wild)";
+                    PerLvLT_ = "Pro LvL \n(gezähmt)";
+                    DinoStat_ = "Dino Stat";
+                    Points_ = "Punkte";
+                    Reminder = "Nicht erinnern";
+                    if (hideSaddle == true)
+                    {
+                        textViewSaddle = "Sattel - anzeigen";
+                    }
+                    else
+                    {
+                        textViewSaddle = "Sattel - verstecken";
+                    }
+
+                    if (hideKibble == true)
+                    {
+                        textViewKibbleRezepte = "Kibble Rezepte - anzeigen";
+                    }
+                    else
+                    {
+                        textViewKibbleRezepte = "Kibble Rezepte - verstecken";
+                    }
+
+                    if (hideStarve == true)
+                    {
+                        textViewStarveTimer = "Aushungern Timer - anzeigen";
+                    }
+                    else
+                    {
+                        textViewStarveTimer = "Aushungern Timer - verstecken";
+                    }
+
+                    if (hideNarco == true)
+                    {
+                        textViewNarcoticTimer = "Betäubtheit Timer - anzeigen";
+                    }
+                    else
+                    {
+                        textViewNarcoticTimer = "Betäubtheit Timer - verstecken";
+                    }
+
+                    if (hide == true)
+                    {
+                        textViewsum = "Details - anzeigen";
+                    }
+                    else
+                    {
+                        textViewsum = "Details - verstecken";
+                    }
+
+                    if (hideBreeding == true)
+                    {
+                        textViewtimesofbreeding = "Zuchtzeiten - anzeigen";
+                    }
+                    else
+                    {
+                        textViewtimesofbreeding = "Zuchtzeiten - verstecken";
+                    }
+                    Name_Mushroom = "Pilz";
+                    MoreTools = "Weitere Tools";
+                    Singleplayer = "Einzelspieler-Optionen";
+                    SwitchConsole = "Ark Switch Einstellungen";
+                    Mobile = "Ark Mobile Einstellungen";
+                    TamingBoost = "Beruhigender Balsam";
+                    torporx = "X-Variant Kreatur";
+                    switch (Art)
+                    {
+                        case "Pflanzenfresser":
+                            textViewArt = "Art: Pflanzenfresser";
+                            if (DinoName == "Selected Dino is Rock Elemental")
+                            {
+                                textViewArt = "Art: Mineralien Esser";
+                                MessageDialog = "Wichtig: Immun gegen jede Art von Betäubung\nKO Strategie: Er besitzt eine Schwachstelle am Kopf\nRocky macht eine spezielle Bewegung und Sound wenn man den Kopf getroffen hat und die Betäubtheit steigt\nWaffen: Katapult, Raketenwerfer, Raketen Turm oder primitive Kanonen\nSpieleranzahl: 3-5";
+                            }
+                            break;
+                        case "Fleischfresser":
+                            textViewArt = "Art: Fleischfresser";
+                            if (DinoName == "Selected Dino is Direbear")
+                            {
+                                textViewArt = "Art: Allesfresser";
+                            }
+                            if (DinoName == "Selected Dino is Rock Drake")
+                            {
+                                wyvernInfo1 = "Wichtig: Ausgewachsene Rock Drake können nicht gezähmt werden.\nDer Spieler muss ein Ei klauen und ausbrüten";
+                                wyvernInfo3 = "Das Rock Drake Baby mit Nameless Venom füttern\nTöte Nameless für Nameless Venom Dropps";
+                            }
+                            break;
+                        case "Aasfresser":
+                            textViewArt = "Art: Aasfresser";
+                            break;
+                        case "Eggfresser":
+                            textViewArt = "Art: Eierfresser";
+                            break;
+                        case "Mushfresser":
+                            textViewArt = "Art: Pflanzenfresser";
+                            if (DinoName == "Selected Dino is Bulbdog")
+                            {
+                                textViewArt = "Art: Allesfresser";
+                            }
+                            break;
+                        case "Kackefresser":
+                            textViewArt = "Art: Aasfresser";
+                            break;
+                        case "Anglergelfresser":
+                            textViewArt = "Art: Fleischfresser";
+                            break;
+                        case "Kochfresser":
+                            textViewArt = "Art: Aasfresser";
+                            if (DinoName == "Selected Dino is Karkinos")
+                            {
+                                MessageDialog = "Wichtig: Immun gegen jede Art von Betäubung\nKO Strategie: Er besitzt eine Schwachstelle am Kopf\nKarkinos macht eine spezielle Bewegung und Sound wenn man den Kopf getroffen hat und die Betäubtheit steigt\nWaffen: Katapult\nSpieleranzahl: 3-5";
+                            }
+                            break;
+                        case "Flowerfresser":
+                            textViewArt = "Art: Pflanzenfresser";
+                            break;
+                    }
+
                     break;
