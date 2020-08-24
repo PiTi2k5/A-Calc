@@ -8,7 +8,8 @@ A-Calc www.a-calc.de Community translations
 
 
 case "en":
-                    TamingSettings = "Open Taming Settings \u2699";
+                    dinonametranslate = "Keep dinonames in english";
+                    TamingSettings = "Open Settings \u2699";
                     PicChangeTip = "switch between pictures (click on picture)";
                     Taming = "Taming";
                     Breeding = "Breeding";
@@ -42,8 +43,52 @@ case "en":
                     textViewAddRemoveFood = "add/remove food (touch the food icon)";
                     Name_Saddle = "Saddle";
                     Name_PlatformSaddle = "Platform Saddle";
+                    Name_Mejo = "Mejoberry";
+                    Name_Fiber = "Fiber";
+                    Name_Egg = " Egg";
+                    Name_EggFerti = " Fertilized Egg";
+                    Name_Longrass = "Longrass";
+                    Name_Rockarrot = "Rockarrot";
+                    Name_Citronal = "Citronal";
+                    Name_Savoroot = "Savoroot";
+                    Name_PrimeJerky = "Prime Meat Jerky";
+                    Name_CookedJerky = "Cooked Meat Jerky";
+                    Name_CookedMeat = "Cooked Meat";
+                    Name_CookedFishMeat = "Cooked Fish Meat";
+                    Name_CookedPrimeFish = "Cooked Prime Fish Meat";
+                    Name_CookedPrime = "Cooked Prime";
+                    Name_RawPrime = "Raw Prime Meat";
+                    Name_RawPrimeFish = "Raw Fish Prime";
+                    Name_RawMutton = "Raw Mutton";
+                    Name_CookedLamb = "Cooked Lamb Chop";
+                    Name_SpoiledMeat = "Spoiled Meat";
+                    Name_Water = "Waterskin";
                     Name_noKibble = "none";
+                    Name_Hide = "Hide";
+                    Name_Wood = "Wood";
+                    Name_Metal = "Metal Ingots";
                     Name_for = "for: ";
+                    Name_Pearls = "Silica Pearls";
+                    Name_Cement = "Cementing Paste";
+                    Name_Stone = "Stone";
+                    Name_MetalErz = "Metal";
+                    Name_Flint = "Flint";
+                    Name_Pelt = "Pelt";
+                    Name_Thatch = "Thatch";
+                    Name_RareFlower = "Rare Flower";
+                    Name_Clay = "Clay";
+                    Name_Kibble = " Kibble";
+                    Name_RareMushroom = "Rare Mushroom";
+                    Name_AnglerGel = "Angler Gel";
+                    Name_Feces = "Large Animal Feces";
+                    Name_Broth = "Broth of Enlightenment";
+                    Name_Obsidian = "Obsidian";
+                    Name_Chitin = "Chitin";
+                    Name_PlantY = "Plant Species Y Seed";
+                    Name_PlantX = "Plant Species X Seed";
+                    Name_PlantZ = "Plant Species Z Seed";
+                    Name_DeathWorm = "Death Worm Spike";
+                    Name_BeerJar = "Beer Jar";
                     baby_time = "baby";
                     juvenile_time = "juvenile";
                     adolescent = "adolescent";
@@ -81,12 +126,13 @@ case "en":
                     titanoInfo4 = "after KO: Equip his saddle platform ---> tamed for 24 h";
                     titanoInfo5 = "Tamed Info: No XP gain, you can´t feed him (foodstat=tamed duration)\nequal stats for each lvl\nPrivat Server: Command Line ?AllowRaidDinoFeeding=true \nallow permanent taming";
                     wyvernInfo1 = "Important: Adult Wyverns can not be tamed.\nIn order to get a tamed Wyvern, the player\nmust steal and hatch a Wyvern Egg.";
-                    wyvernInfo2 = "There are four Wyvern egg variants\nWyvern Egg Fire, Wyvern Egg Lightning \nWyvern Egg Poison and Wyvern Egg Ice.";
+                    wyvernInfo2 = "There are three Wyvern egg variants\nWyvern Egg Fire, Wyvern Egg Lightning and \nWyvern Egg Poison.";
                     wyvernInfo3 = "feed the Wyvern baby all 2 hrs with Wyvern milk\nnarcotize and get the milk from female Wyvern or kill alphas\ngathering resources on the ground with default key [c]";
                     wyvernKibble = "Egg stealing";
                     dungInfo = "(wandering and put in his inv) \nFeces --> Fertilizer/Oil";
                     oviInfo = "faster egg production (wandering)";
                     lystroInfo = "more XP for dinos (pet it)";
+                    BerryInfo = "Berries";
                     AffinityCustomCalc = "Affinity Needed: {0} \nAffinity Supplied: {1}";
                     Alarm = "Alarm @";
                     AlarmMin = "min";
@@ -158,7 +204,23 @@ case "en":
                     {
                         textViewtimesofbreeding = "Times for Breeding - hide";
                     }
+                    //NEU
+                    Name_otherberries = "other Berries";
+                    Name_Veggie = "Veggie";
+                    Name_sulfur = "Sulfur";
+                    Name_cake = "Sweet Veggie Cake";
+                    Name_bugrep = "Bug Repellent";
+                    Name_firearrow = "Fire Arrow";
+                    Name_Flamethrower = "Flamethrower";
+                    Name_raw = "Meat";
+                    Name_rawfish = "Fish Meat";
+                    Name_BlackPearl = "Black Pearls";
+                    Name_Honey = "Honey";
                     Name_Mushroom = "Mushroom";
+                    Name_LargePoop = "Large Animal Feces";
+                    Name_MediumPoop = "Medium Animal Feces";
+                    Name_SmallPoop = "Small Animal Feces";
+                    Name_Petit = "Pet it";
                     MoreTools = "More Tools";
                     Singleplayer = "Singleplayer Options";
                     SwitchConsole = "Ark Switch Settings";
@@ -229,7 +291,8 @@ case "en":
 #### Example translation in german ######
 
                    case "de":
-                    TamingSettings = "Öffne Zähmung Einstellungen \u2699";
+                    dinonametranslate = "Englische Dinonamen (Neustart)";
+                    TamingSettings = "Öffne Einstellungen \u2699";
                     PicChangeTip = "Zwischen Bildern wechseln (Bild anklicken)";
                     Taming = "Zähmung";
                     Breeding = "Zucht";
@@ -263,8 +326,52 @@ case "en":
                     textViewAddRemoveFood = "Futter hinzufügen/entfernen (Futter Symbol berühren)";
                     Name_Saddle = "Sattel";
                     Name_PlatformSaddle = "Platform Sattel";
+                    Name_Mejo = "Mejobeere";
+                    Name_Fiber = "Faser";
+                    Name_Egg = " Ei";
+                    Name_EggFerti = " Befruchtetes Ei";
+                    Name_Longrass = "Mais";
+                    Name_Rockarrot = "Karotte";
+                    Name_Citronal = "Zitrone";
+                    Name_Savoroot = "Kartoffel";
+                    Name_PrimeJerky = "Räucherfilet";
+                    Name_CookedJerky = "Räucherfleisch";
+                    Name_CookedMeat = "Gegrilltes Fleisch";
+                    Name_CookedFishMeat = "Gegrilltes Fischfleisch";
+                    Name_CookedPrimeFish = "Gegrilltes Fischfilet";
+                    Name_CookedPrime = "Gegrilltes Filet";
+                    Name_RawPrime = "Rohes Filet";
+                    Name_RawPrimeFish = "Rohes Fischfilet";
+                    Name_RawMutton = "Rohes Hammelfleisch";
+                    Name_CookedLamb = "Gegrilltes Lammkotelett";
+                    Name_SpoiledMeat = "Verdorbenes Fleisch";
+                    Name_Water = "Wassersack";
                     Name_noKibble = "keine";
+                    Name_Hide = "Leder";
+                    Name_Wood = "Holz";
+                    Name_Metal = "Metal Barren";
                     Name_for = "für: ";
+                    Name_Pearls = "Perlen";
+                    Name_Cement = "Zement";
+                    Name_Stone = "Stein";
+                    Name_MetalErz = "Metal Erz";
+                    Name_Flint = "Feuerstein";
+                    Name_Pelt = "Pelz";
+                    Name_Thatch = "Stroh";
+                    Name_RareFlower = "Seltene Blume";
+                    Name_Clay = "Lehm";
+                    Name_Kibble = " Trockenfutter";
+                    Name_RareMushroom = "Seltener Pilz";
+                    Name_Feces = "Großer Kothaufen";
+                    Name_AnglerGel = "Anglergel";
+                    Name_Broth = "Suppe der Erleuchtung";
+                    Name_Obsidian = "Obsidian";
+                    Name_Chitin = "Chitin";
+                    Name_PlantY = "Pflanzenspezies Y Samen";
+                    Name_PlantX = "Pflanzenspezies X Samen";//NEU
+                    Name_PlantZ = "Pflanzenspezies Z Samen";
+                    Name_DeathWorm = "Death Worm Spitze";
+                    Name_BeerJar = "Glas Bier";
                     baby_time = "Baby";
                     juvenile_time = "Jugendlich";
                     adolescent = "Heranwachsend";
@@ -278,7 +385,7 @@ case "en":
                     textViewCarryable = "Tragbar durch";
                     buttonWiki = "Öffne offizielle Ark Wiki Seite";
                     buttonCarryable = "Öffne Übersichten";
-                    buttonRate = "A-Calc Pro bewerten";
+                    buttonRate = "A-Calc bewerten";
                     buttonKibble = "Rezepte";
                     Bewerten = "Bitte bewerte";
                     XPtext = "Erfahrung für töten ";
@@ -295,19 +402,20 @@ case "en":
                     Torpor = "Betäubtheit Total: {0} / Rate: {1} \nZeit bis Betäubtheit versagt: {2} \nNachfüllzeit Narkos (Puffer): {3} \nNachfüllzeit Beeren (Puffer): {4} \nNachfüllzeit Bio Toxin (Puffer): {5} \nNachfüllzeit Ascerbic (Puffer): {6}";
                     berrys = "Beeren";
                     narcos = "Narkos";
-                    biotoxin = "BioToxin";
+                    biotoxin = "Bio Toxin";
                     titanoInfo1 = "Wichtig: Immun gegen jede Art von Betäubung\nDauer: nur 24 Std Echtzeit (keine permanente Zähmung)\nNur 3 können gleichzeitig existieren";
                     titanoInfo2 = "KO Strategie: Er besitzt eine Schwachstelle am Kopf\nTitano macht eine spezielle Bewegung und Sound wenn man den Kopf \ngetroffen hat und die Betäubtheit steigt";
                     titanoInfo3 = "Waffen: Katapult, Raketenwerfer, Raketen Turm oder \nprimitive Kanonen\nSpieleranzahl: 3-5";
                     titanoInfo4 = "nach KO: Platform Sattel ausrüsten ---> gezähmt für 24 Std";
                     titanoInfo5 = "Gezähmt Info: Kein XP Gewinn, man kann ihn nicht füttern \n(Futterstat=Gezähmt Dauer)\njedes lvl hat die gleichen Stats\nPrivat Server: Kommandozeile ?AllowRaidDinoFeeding=true \nbewirkt permanente Zähmung";
                     wyvernInfo1 = "Wichtig: Ausgewachsene Wyverns können nicht gezähmt werden.\nDer Spieler muss ein Ei klauen und ausbrüten";
-                    wyvernInfo2 = "Es gibt 4 Varianten von Wyvern Eiern\nWyvern Feuer Ei, Wyvern Blitz Ei \nWyvern Gift Ei und Wyvern Eis Ei.";
+                    wyvernInfo2 = "Es gibt 3 Varianten von Wyvern Eiern\nWyvern Feuer Ei, Wyvern Blitz Ei und \nWyvern Gift Ei.";
                     wyvernInfo3 = "Das Wyvern Baby ca. alle 2 Std mit Wyvernmilch füttern\nBetäube Weibliche Wyvern oder töte Alphas für Milch Dropps\nRessourcen werden mit Standardtaste [c] am Boden gefarmt";
                     wyvernKibble = "Ei stehlen";
                     dungInfo = "(Kot in Dung Beetle Inv und auf wandern) \nKacke --> Dünger/Öl";
                     oviInfo = "schnellere Eierproduktion (wandern)";
                     lystroInfo = "mehr XP für Dinos (kuscheln)";
+                    BerryInfo = "Beeren";
                     AffinityCustomCalc = "Affinität erforderlich: {0} \nAffinität erreicht: {1}";
                     Alarm = "Alarm @";
                     AlarmMin = "min";
@@ -379,7 +487,23 @@ case "en":
                     {
                         textViewtimesofbreeding = "Zuchtzeiten - verstecken";
                     }
+                    //NEU
+                    Name_otherberries = "andere Beeren";
+                    Name_Veggie = "Gemüse";
+                    Name_sulfur = "Schwefel";
+                    Name_cake = "Süßer Gemüsekuchen";
+                    Name_bugrep = "Insektenschutzmittel";
+                    Name_firearrow = "Feuerpfeil";
+                    Name_Flamethrower = "Flammenwerfer";
+                    Name_raw = "Fleisch";
+                    Name_rawfish = "Fischfleisch";
+                    Name_BlackPearl = "Schwarze Perlen";
+                    Name_Honey = "Honig";
                     Name_Mushroom = "Pilz";
+                    Name_LargePoop = "Großer Kothaufen";
+                    Name_MediumPoop = "Mittlerer Kothaufen";
+                    Name_SmallPoop = "Kleiner Kothaufen";
+                    Name_Petit = "Kuscheln";
                     MoreTools = "Weitere Tools";
                     Singleplayer = "Einzelspieler-Optionen";
                     SwitchConsole = "Ark Switch Einstellungen";
