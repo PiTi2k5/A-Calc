@@ -1,6 +1,7 @@
 A-Calc www.a-calc.de Community translations
 * Translate EN to your right native language between the two quotations marks
 * include all special characters e.g. {0} | {1} | {2}, spaces or \n
+* dont translate switch cases for example: switch (Art) or case "Pflanzenfresser": lines 
 
 
 
