@@ -38,6 +38,7 @@ Want more languages? Send me a email info@a-calc.de
 | pl | Polish      |    100 % | 0 % |
 | pt-br | Portuguese-Brazilian      |    100 % | 100 % |
 | ru | Russian      |    100 % | 100 % |
+| tr | Turkish      |    100 % | 0 % |
 
 # Languages Phase 1 Core Features - Atlas
 | Country identifier  | Language           | Status inApp | Status App description  |
