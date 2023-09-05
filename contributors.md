@@ -24,6 +24,9 @@
 ## Portuguese-Brazilian Translations
 1. sponsered by [A-Calc](http://www.a-calc.de)
 
+## Turkish Translations
+1. trtpl
+
 
 # Contributors - Atlas
 
